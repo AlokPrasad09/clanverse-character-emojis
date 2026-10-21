@@ -1,0 +1,626 @@
+[
+  {
+    "character": "archer",
+    "expression": "happy",
+    "number": 1,
+    "file": "archer/01-happy",
+    "name": "Happy",
+    "glyph": "😀",
+    "keywords": [
+      "happy",
+      "smile",
+      "grinning"
+    ]
+  },
+  {
+    "character": "barbarian",
+    "expression": "happy",
+    "number": 1,
+    "file": "barbarian/01-happy",
+    "name": "Happy",
+    "glyph": "😀",
+    "keywords": [
+      "happy",
+      "smile",
+      "grinning"
+    ]
+  },
+  {
+    "character": "archer",
+    "expression": "grin",
+    "number": 2,
+    "file": "archer/02-grin",
+    "name": "Grin",
+    "glyph": "😁",
+    "keywords": [
+      "grin",
+      "teeth",
+      "happy"
+    ]
+  },
+  {
+    "character": "barbarian",
+    "expression": "grin",
+    "number": 2,
+    "file": "barbarian/02-grin",
+    "name": "Grin",
+    "glyph": "😁",
+    "keywords": [
+      "grin",
+      "teeth",
+      "happy"
+    ]
+  },
+  {
+    "character": "archer",
+    "expression": "laugh",
+    "number": 3,
+    "file": "archer/03-laugh",
+    "name": "Laugh",
+    "glyph": "😆",
+    "keywords": [
+      "laugh",
+      "lol",
+      "squint"
+    ]
+  },
+  {
+    "character": "barbarian",
+    "expression": "laugh",
+    "number": 3,
+    "file": "barbarian/03-laugh",
+    "name": "Laugh",
+    "glyph": "😆",
+    "keywords": [
+      "laugh",
+      "lol",
+      "squint"
+    ]
+  },
+  {
+    "character": "archer",
+    "expression": "tears-of-joy",
+    "number": 4,
+    "file": "archer/04-tears-of-joy",
+    "name": "Tears of joy",
+    "glyph": "😂",
+    "keywords": [
+      "joy",
+      "tears",
+      "laugh",
+      "lol"
+    ]
+  },
+  {
+    "character": "barbarian",
+    "expression": "tears-of-joy",
+    "number": 4,
+    "file": "barbarian/04-tears-of-joy",
+    "name": "Tears of joy",
+    "glyph": "😂",
+    "keywords": [
+      "joy",
+      "tears",
+      "laugh",
+      "lol"
+    ]
+  },
+  {
+    "character": "archer",
+    "expression": "wink",
+    "number": 5,
+    "file": "archer/05-wink",
+    "name": "Wink",
+    "glyph": "😉",
+    "keywords": [
+      "wink",
+      "playful"
+    ]
+  },
+  {
+    "character": "barbarian",
+    "expression": "wink",
+    "number": 5,
+    "file": "barbarian/05-wink",
+    "name": "Wink",
+    "glyph": "😉",
+    "keywords": [
+      "wink",
+      "playful"
+    ]
+  },
+  {
+    "character": "archer",
+    "expression": "blush",
+    "number": 6,
+    "file": "archer/06-blush",
+    "name": "Blush",
+    "glyph": "😊",
+    "keywords": [
+      "blush",
+      "smile",
+      "shy"
+    ]
+  },
+  {
+    "character": "barbarian",
+    "expression": "blush",
+    "number": 6,
+    "file": "barbarian/06-blush",
+    "name": "Blush",
+    "glyph": "😊",
+    "keywords": [
+      "blush",
+      "smile",
+      "shy"
+    ]
+  },
+  {
+    "character": "archer",
+    "expression": "halo",
+    "number": 7,
+    "file": "archer/07-halo",
+    "name": "Angel",
+    "glyph": "😇",
+    "keywords": [
+      "angel",
+      "halo",
+      "innocent"
+    ]
+  },
+  {
+    "character": "barbarian",
+    "expression": "halo",
+    "number": 7,
+    "file": "barbarian/07-halo",
+    "name": "Angel",
+    "glyph": "😇",
+    "keywords": [
+      "angel",
+      "halo",
+      "innocent"
+    ]
+  },
+  {
+    "character": "archer",
+    "expression": "love",
+    "number": 8,
+    "file": "archer/08-love",
+    "name": "Love",
+    "glyph": "🥰",
+    "keywords": [
+      "love",
+      "hearts",
+      "affection"
+    ]
+  },
+  {
+    "character": "barbarian",
+    "expression": "love",
+    "number": 8,
+    "file": "barbarian/08-love",
+    "name": "Love",
+    "glyph": "🥰",
+    "keywords": [
+      "love",
+      "hearts",
+      "affection"
+    ]
+  },
+  {
+    "character": "archer",
+    "expression": "heart-eyes",
+    "number": 9,
+    "file": "archer/09-heart-eyes",
+    "name": "Heart eyes",
+    "glyph": "😍",
+    "keywords": [
+      "heart",
+      "eyes",
+      "love",
+      "crush"
+    ]
+  },
+  {
+    "character": "barbarian",
+    "expression": "heart-eyes",
+    "number": 9,
+    "file": "barbarian/09-heart-eyes",
+    "name": "Heart eyes",
+    "glyph": "😍",
+    "keywords": [
+      "heart",
+      "eyes",
+      "love",
+      "crush"
+    ]
+  },
+  {
+    "character": "archer",
+    "expression": "kiss",
+    "number": 10,
+    "file": "archer/10-kiss",
+    "name": "Kiss",
+    "glyph": "😘",
+    "keywords": [
+      "kiss",
+      "love"
+    ]
+  },
+  {
+    "character": "barbarian",
+    "expression": "kiss",
+    "number": 10,
+    "file": "barbarian/10-kiss",
+    "name": "Kiss",
+    "glyph": "😘",
+    "keywords": [
+      "kiss",
+      "love"
+    ]
+  },
+  {
+    "character": "archer",
+    "expression": "tongue",
+    "number": 11,
+    "file": "archer/11-tongue",
+    "name": "Tongue out",
+    "glyph": "😛",
+    "keywords": [
+      "tongue",
+      "silly",
+      "fun"
+    ]
+  },
+  {
+    "character": "barbarian",
+    "expression": "tongue",
+    "number": 11,
+    "file": "barbarian/11-tongue",
+    "name": "Tongue out",
+    "glyph": "😛",
+    "keywords": [
+      "tongue",
+      "silly",
+      "fun"
+    ]
+  },
+  {
+    "character": "archer",
+    "expression": "zany",
+    "number": 12,
+    "file": "archer/12-zany",
+    "name": "Zany",
+    "glyph": "🤪",
+    "keywords": [
+      "zany",
+      "crazy",
+      "wild",
+      "silly"
+    ]
+  },
+  {
+    "character": "barbarian",
+    "expression": "zany",
+    "number": 12,
+    "file": "barbarian/12-zany",
+    "name": "Zany",
+    "glyph": "🤪",
+    "keywords": [
+      "zany",
+      "crazy",
+      "wild",
+      "silly"
+    ]
+  },
+  {
+    "character": "archer",
+    "expression": "cool",
+    "number": 13,
+    "file": "archer/13-cool",
+    "name": "Cool",
+    "glyph": "😎",
+    "keywords": [
+      "cool",
+      "sunglasses",
+      "swag"
+    ]
+  },
+  {
+    "character": "barbarian",
+    "expression": "cool",
+    "number": 13,
+    "file": "barbarian/13-cool",
+    "name": "Cool",
+    "glyph": "😎",
+    "keywords": [
+      "cool",
+      "sunglasses",
+      "swag"
+    ]
+  },
+  {
+    "character": "archer",
+    "expression": "thinking",
+    "number": 14,
+    "file": "archer/14-thinking",
+    "name": "Thinking",
+    "glyph": "🤔",
+    "keywords": [
+      "think",
+      "hmm",
+      "question"
+    ]
+  },
+  {
+    "character": "barbarian",
+    "expression": "thinking",
+    "number": 14,
+    "file": "barbarian/14-thinking",
+    "name": "Thinking",
+    "glyph": "🤔",
+    "keywords": [
+      "think",
+      "hmm",
+      "question"
+    ]
+  },
+  {
+    "character": "archer",
+    "expression": "shh",
+    "number": 15,
+    "file": "archer/15-shh",
+    "name": "Shh",
+    "glyph": "🤫",
+    "keywords": [
+      "shh",
+      "quiet",
+      "secret"
+    ]
+  },
+  {
+    "character": "barbarian",
+    "expression": "shh",
+    "number": 15,
+    "file": "barbarian/15-shh",
+    "name": "Shh",
+    "glyph": "🤫",
+    "keywords": [
+      "shh",
+      "quiet",
+      "secret"
+    ]
+  },
+  {
+    "character": "archer",
+    "expression": "neutral",
+    "number": 16,
+    "file": "archer/16-neutral",
+    "name": "Neutral",
+    "glyph": "😐",
+    "keywords": [
+      "neutral",
+      "blank"
+    ]
+  },
+  {
+    "character": "barbarian",
+    "expression": "neutral",
+    "number": 16,
+    "file": "barbarian/16-neutral",
+    "name": "Neutral",
+    "glyph": "😐",
+    "keywords": [
+      "neutral",
+      "blank"
+    ]
+  },
+  {
+    "character": "archer",
+    "expression": "smirk",
+    "number": 17,
+    "file": "archer/17-smirk",
+    "name": "Smirk",
+    "glyph": "😏",
+    "keywords": [
+      "smirk",
+      "sly",
+      "confident"
+    ]
+  },
+  {
+    "character": "barbarian",
+    "expression": "smirk",
+    "number": 17,
+    "file": "barbarian/17-smirk",
+    "name": "Smirk",
+    "glyph": "😏",
+    "keywords": [
+      "smirk",
+      "sly",
+      "confident"
+    ]
+  },
+  {
+    "character": "archer",
+    "expression": "sad",
+    "number": 18,
+    "file": "archer/18-sad",
+    "name": "Sad",
+    "glyph": "😔",
+    "keywords": [
+      "sad",
+      "pensive",
+      "disappointed"
+    ]
+  },
+  {
+    "character": "barbarian",
+    "expression": "sad",
+    "number": 18,
+    "file": "barbarian/18-sad",
+    "name": "Sad",
+    "glyph": "😔",
+    "keywords": [
+      "sad",
+      "pensive",
+      "disappointed"
+    ]
+  },
+  {
+    "character": "archer",
+    "expression": "cry",
+    "number": 19,
+    "file": "archer/19-cry",
+    "name": "Cry",
+    "glyph": "😢",
+    "keywords": [
+      "cry",
+      "tear",
+      "sad"
+    ]
+  },
+  {
+    "character": "barbarian",
+    "expression": "cry",
+    "number": 19,
+    "file": "barbarian/19-cry",
+    "name": "Cry",
+    "glyph": "😢",
+    "keywords": [
+      "cry",
+      "tear",
+      "sad"
+    ]
+  },
+  {
+    "character": "archer",
+    "expression": "sob",
+    "number": 20,
+    "file": "archer/20-sob",
+    "name": "Sob",
+    "glyph": "😭",
+    "keywords": [
+      "sob",
+      "crying",
+      "tears"
+    ]
+  },
+  {
+    "character": "barbarian",
+    "expression": "sob",
+    "number": 20,
+    "file": "barbarian/20-sob",
+    "name": "Sob",
+    "glyph": "😭",
+    "keywords": [
+      "sob",
+      "crying",
+      "tears"
+    ]
+  },
+  {
+    "character": "archer",
+    "expression": "angry",
+    "number": 21,
+    "file": "archer/21-angry",
+    "name": "Angry",
+    "glyph": "😠",
+    "keywords": [
+      "angry",
+      "mad"
+    ]
+  },
+  {
+    "character": "barbarian",
+    "expression": "angry",
+    "number": 21,
+    "file": "barbarian/21-angry",
+    "name": "Angry",
+    "glyph": "😠",
+    "keywords": [
+      "angry",
+      "mad"
+    ]
+  },
+  {
+    "character": "archer",
+    "expression": "shock",
+    "number": 22,
+    "file": "archer/22-shock",
+    "name": "Shock",
+    "glyph": "😮",
+    "keywords": [
+      "wow",
+      "shock",
+      "surprise"
+    ]
+  },
+  {
+    "character": "barbarian",
+    "expression": "shock",
+    "number": 22,
+    "file": "barbarian/22-shock",
+    "name": "Shock",
+    "glyph": "😮",
+    "keywords": [
+      "wow",
+      "shock",
+      "surprise"
+    ]
+  },
+  {
+    "character": "archer",
+    "expression": "pleading",
+    "number": 23,
+    "file": "archer/23-pleading",
+    "name": "Pleading",
+    "glyph": "🥺",
+    "keywords": [
+      "please",
+      "pleading",
+      "puppy",
+      "eyes"
+    ]
+  },
+  {
+    "character": "barbarian",
+    "expression": "pleading",
+    "number": 23,
+    "file": "barbarian/23-pleading",
+    "name": "Pleading",
+    "glyph": "🥺",
+    "keywords": [
+      "please",
+      "pleading",
+      "puppy",
+      "eyes"
+    ]
+  },
+  {
+    "character": "archer",
+    "expression": "sleep",
+    "number": 24,
+    "file": "archer/24-sleep",
+    "name": "Sleeping",
+    "glyph": "😴",
+    "keywords": [
+      "sleep",
+      "zzz",
+      "tired"
+    ]
+  },
+  {
+    "character": "barbarian",
+    "expression": "sleep",
+    "number": 24,
+    "file": "barbarian/24-sleep",
+    "name": "Sleeping",
+    "glyph": "😴",
+    "keywords": [
+      "sleep",
+      "zzz",
+      "tired"
+    ]
+  }
+]

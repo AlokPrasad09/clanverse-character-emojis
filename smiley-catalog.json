@@ -1,0 +1,406 @@
+[
+  {
+    "glyph": "😀",
+    "keywords": "grinning happy"
+  },
+  {
+    "glyph": "😃",
+    "keywords": "smile happy"
+  },
+  {
+    "glyph": "😄",
+    "keywords": "smile laugh"
+  },
+  {
+    "glyph": "😁",
+    "keywords": "grin teeth"
+  },
+  {
+    "glyph": "😆",
+    "keywords": "laugh squint"
+  },
+  {
+    "glyph": "😅",
+    "keywords": "sweat laugh nervous"
+  },
+  {
+    "glyph": "🤣",
+    "keywords": "rofl lol laughing"
+  },
+  {
+    "glyph": "😂",
+    "keywords": "joy tears lol"
+  },
+  {
+    "glyph": "🙂",
+    "keywords": "slight smile"
+  },
+  {
+    "glyph": "🙃",
+    "keywords": "upside down"
+  },
+  {
+    "glyph": "😉",
+    "keywords": "wink"
+  },
+  {
+    "glyph": "😊",
+    "keywords": "blush happy"
+  },
+  {
+    "glyph": "😇",
+    "keywords": "angel halo"
+  },
+  {
+    "glyph": "🥰",
+    "keywords": "love hearts face"
+  },
+  {
+    "glyph": "😍",
+    "keywords": "heart eyes love"
+  },
+  {
+    "glyph": "🤩",
+    "keywords": "star struck wow"
+  },
+  {
+    "glyph": "😘",
+    "keywords": "kiss"
+  },
+  {
+    "glyph": "😗",
+    "keywords": "kiss"
+  },
+  {
+    "glyph": "😚",
+    "keywords": "kiss blush"
+  },
+  {
+    "glyph": "😋",
+    "keywords": "yum tasty"
+  },
+  {
+    "glyph": "😛",
+    "keywords": "tongue"
+  },
+  {
+    "glyph": "😜",
+    "keywords": "wink tongue"
+  },
+  {
+    "glyph": "🤪",
+    "keywords": "crazy zany"
+  },
+  {
+    "glyph": "😝",
+    "keywords": "tongue squint"
+  },
+  {
+    "glyph": "🤑",
+    "keywords": "money rich"
+  },
+  {
+    "glyph": "🤗",
+    "keywords": "hug"
+  },
+  {
+    "glyph": "🤭",
+    "keywords": "oops giggle"
+  },
+  {
+    "glyph": "🤫",
+    "keywords": "shh quiet"
+  },
+  {
+    "glyph": "🤔",
+    "keywords": "think hmm"
+  },
+  {
+    "glyph": "🫡",
+    "keywords": "salute"
+  },
+  {
+    "glyph": "🤐",
+    "keywords": "zipper mouth secret"
+  },
+  {
+    "glyph": "🤨",
+    "keywords": "raised eyebrow sus"
+  },
+  {
+    "glyph": "😐",
+    "keywords": "neutral"
+  },
+  {
+    "glyph": "😑",
+    "keywords": "expressionless"
+  },
+  {
+    "glyph": "😶",
+    "keywords": "no mouth silent"
+  },
+  {
+    "glyph": "😏",
+    "keywords": "smirk"
+  },
+  {
+    "glyph": "😒",
+    "keywords": "unamused"
+  },
+  {
+    "glyph": "🙄",
+    "keywords": "eye roll"
+  },
+  {
+    "glyph": "😬",
+    "keywords": "grimace awkward"
+  },
+  {
+    "glyph": "😮‍💨",
+    "keywords": "exhale relief"
+  },
+  {
+    "glyph": "🤥",
+    "keywords": "lying liar"
+  },
+  {
+    "glyph": "😌",
+    "keywords": "relieved calm"
+  },
+  {
+    "glyph": "😔",
+    "keywords": "sad pensive"
+  },
+  {
+    "glyph": "😪",
+    "keywords": "sleepy"
+  },
+  {
+    "glyph": "🤤",
+    "keywords": "drool"
+  },
+  {
+    "glyph": "😴",
+    "keywords": "sleeping zzz"
+  },
+  {
+    "glyph": "😷",
+    "keywords": "mask sick"
+  },
+  {
+    "glyph": "🤒",
+    "keywords": "fever sick"
+  },
+  {
+    "glyph": "🤕",
+    "keywords": "injured hurt"
+  },
+  {
+    "glyph": "🤢",
+    "keywords": "nauseated sick"
+  },
+  {
+    "glyph": "🤮",
+    "keywords": "vomit"
+  },
+  {
+    "glyph": "🥵",
+    "keywords": "hot"
+  },
+  {
+    "glyph": "🥶",
+    "keywords": "cold freezing"
+  },
+  {
+    "glyph": "🥴",
+    "keywords": "woozy drunk"
+  },
+  {
+    "glyph": "😵",
+    "keywords": "dizzy"
+  },
+  {
+    "glyph": "🤯",
+    "keywords": "mind blown"
+  },
+  {
+    "glyph": "🤠",
+    "keywords": "cowboy"
+  },
+  {
+    "glyph": "🥳",
+    "keywords": "party celebrate"
+  },
+  {
+    "glyph": "😎",
+    "keywords": "cool sunglasses"
+  },
+  {
+    "glyph": "🤓",
+    "keywords": "nerd"
+  },
+  {
+    "glyph": "🧐",
+    "keywords": "monocle"
+  },
+  {
+    "glyph": "😕",
+    "keywords": "confused"
+  },
+  {
+    "glyph": "😟",
+    "keywords": "worried"
+  },
+  {
+    "glyph": "🙁",
+    "keywords": "frown"
+  },
+  {
+    "glyph": "😮",
+    "keywords": "wow open mouth"
+  },
+  {
+    "glyph": "😲",
+    "keywords": "astonished"
+  },
+  {
+    "glyph": "😳",
+    "keywords": "flushed embarrassed"
+  },
+  {
+    "glyph": "🥺",
+    "keywords": "pleading puppy eyes"
+  },
+  {
+    "glyph": "😦",
+    "keywords": "frown open"
+  },
+  {
+    "glyph": "😨",
+    "keywords": "fearful scared"
+  },
+  {
+    "glyph": "😰",
+    "keywords": "anxious sweat"
+  },
+  {
+    "glyph": "😢",
+    "keywords": "cry sad"
+  },
+  {
+    "glyph": "😭",
+    "keywords": "sob crying"
+  },
+  {
+    "glyph": "😱",
+    "keywords": "scream shock"
+  },
+  {
+    "glyph": "😖",
+    "keywords": "confounded"
+  },
+  {
+    "glyph": "😣",
+    "keywords": "persevere"
+  },
+  {
+    "glyph": "😞",
+    "keywords": "disappointed"
+  },
+  {
+    "glyph": "😓",
+    "keywords": "downcast sweat"
+  },
+  {
+    "glyph": "😩",
+    "keywords": "weary tired"
+  },
+  {
+    "glyph": "😫",
+    "keywords": "tired"
+  },
+  {
+    "glyph": "🥱",
+    "keywords": "yawn bored"
+  },
+  {
+    "glyph": "😤",
+    "keywords": "triumph huff"
+  },
+  {
+    "glyph": "😡",
+    "keywords": "angry mad"
+  },
+  {
+    "glyph": "😠",
+    "keywords": "angry"
+  },
+  {
+    "glyph": "🤬",
+    "keywords": "cursing swearing"
+  },
+  {
+    "glyph": "😈",
+    "keywords": "devil smile"
+  },
+  {
+    "glyph": "👿",
+    "keywords": "devil angry"
+  },
+  {
+    "glyph": "💀",
+    "keywords": "skull dead"
+  },
+  {
+    "glyph": "☠️",
+    "keywords": "skull crossbones"
+  },
+  {
+    "glyph": "💩",
+    "keywords": "poop"
+  },
+  {
+    "glyph": "🤡",
+    "keywords": "clown"
+  },
+  {
+    "glyph": "👹",
+    "keywords": "ogre"
+  },
+  {
+    "glyph": "👻",
+    "keywords": "ghost"
+  },
+  {
+    "glyph": "👽",
+    "keywords": "alien"
+  },
+  {
+    "glyph": "🤖",
+    "keywords": "robot"
+  },
+  {
+    "glyph": "😺",
+    "keywords": "cat smile"
+  },
+  {
+    "glyph": "😹",
+    "keywords": "cat joy"
+  },
+  {
+    "glyph": "😻",
+    "keywords": "cat heart eyes"
+  },
+  {
+    "glyph": "🙈",
+    "keywords": "see no evil monkey"
+  },
+  {
+    "glyph": "🙉",
+    "keywords": "hear no evil"
+  },
+  {
+    "glyph": "🙊",
+    "keywords": "speak no evil"
+  }
+]

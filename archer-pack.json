@@ -1,0 +1,323 @@
+{
+  "id": "archer",
+  "name": "Archer",
+  "icon": "🏹",
+  "dir": "archer",
+  "format": "png",
+  "thumbSuffix": "-128.png",
+  "fullSuffix": "-512.png",
+  "items": [
+    {
+      "id": "happy",
+      "file": "01-happy",
+      "name": "Archer Happy",
+      "fallback": "😀",
+      "keywords": [
+        "archer",
+        "happy",
+        "smile",
+        "grinning"
+      ],
+      "alias": ":archer_happy:"
+    },
+    {
+      "id": "grin",
+      "file": "02-grin",
+      "name": "Archer Grin",
+      "fallback": "😁",
+      "keywords": [
+        "archer",
+        "grin",
+        "teeth",
+        "happy"
+      ],
+      "alias": ":archer_grin:"
+    },
+    {
+      "id": "laugh",
+      "file": "03-laugh",
+      "name": "Archer Laugh",
+      "fallback": "😆",
+      "keywords": [
+        "archer",
+        "laugh",
+        "lol",
+        "squint"
+      ],
+      "alias": ":archer_laugh:"
+    },
+    {
+      "id": "tears-of-joy",
+      "file": "04-tears-of-joy",
+      "name": "Archer Tears of joy",
+      "fallback": "😂",
+      "keywords": [
+        "archer",
+        "joy",
+        "tears",
+        "laugh",
+        "lol"
+      ],
+      "alias": ":archer_tears_of_joy:"
+    },
+    {
+      "id": "wink",
+      "file": "05-wink",
+      "name": "Archer Wink",
+      "fallback": "😉",
+      "keywords": [
+        "archer",
+        "wink",
+        "playful"
+      ],
+      "alias": ":archer_wink:"
+    },
+    {
+      "id": "blush",
+      "file": "06-blush",
+      "name": "Archer Blush",
+      "fallback": "😊",
+      "keywords": [
+        "archer",
+        "blush",
+        "smile",
+        "shy"
+      ],
+      "alias": ":archer_blush:"
+    },
+    {
+      "id": "halo",
+      "file": "07-halo",
+      "name": "Archer Angel",
+      "fallback": "😇",
+      "keywords": [
+        "archer",
+        "angel",
+        "halo",
+        "innocent"
+      ],
+      "alias": ":archer_halo:"
+    },
+    {
+      "id": "love",
+      "file": "08-love",
+      "name": "Archer Love",
+      "fallback": "🥰",
+      "keywords": [
+        "archer",
+        "love",
+        "hearts",
+        "affection"
+      ],
+      "alias": ":archer_love:"
+    },
+    {
+      "id": "heart-eyes",
+      "file": "09-heart-eyes",
+      "name": "Archer Heart eyes",
+      "fallback": "😍",
+      "keywords": [
+        "archer",
+        "heart",
+        "eyes",
+        "love",
+        "crush"
+      ],
+      "alias": ":archer_heart_eyes:"
+    },
+    {
+      "id": "kiss",
+      "file": "10-kiss",
+      "name": "Archer Kiss",
+      "fallback": "😘",
+      "keywords": [
+        "archer",
+        "kiss",
+        "love"
+      ],
+      "alias": ":archer_kiss:"
+    },
+    {
+      "id": "tongue",
+      "file": "11-tongue",
+      "name": "Archer Tongue out",
+      "fallback": "😛",
+      "keywords": [
+        "archer",
+        "tongue",
+        "silly",
+        "fun"
+      ],
+      "alias": ":archer_tongue:"
+    },
+    {
+      "id": "zany",
+      "file": "12-zany",
+      "name": "Archer Zany",
+      "fallback": "🤪",
+      "keywords": [
+        "archer",
+        "zany",
+        "crazy",
+        "wild",
+        "silly"
+      ],
+      "alias": ":archer_zany:"
+    },
+    {
+      "id": "cool",
+      "file": "13-cool",
+      "name": "Archer Cool",
+      "fallback": "😎",
+      "keywords": [
+        "archer",
+        "cool",
+        "sunglasses",
+        "swag"
+      ],
+      "alias": ":archer_cool:"
+    },
+    {
+      "id": "thinking",
+      "file": "14-thinking",
+      "name": "Archer Thinking",
+      "fallback": "🤔",
+      "keywords": [
+        "archer",
+        "think",
+        "hmm",
+        "question"
+      ],
+      "alias": ":archer_thinking:"
+    },
+    {
+      "id": "shh",
+      "file": "15-shh",
+      "name": "Archer Shh",
+      "fallback": "🤫",
+      "keywords": [
+        "archer",
+        "shh",
+        "quiet",
+        "secret"
+      ],
+      "alias": ":archer_shh:"
+    },
+    {
+      "id": "neutral",
+      "file": "16-neutral",
+      "name": "Archer Neutral",
+      "fallback": "😐",
+      "keywords": [
+        "archer",
+        "neutral",
+        "blank"
+      ],
+      "alias": ":archer_neutral:"
+    },
+    {
+      "id": "smirk",
+      "file": "17-smirk",
+      "name": "Archer Smirk",
+      "fallback": "😏",
+      "keywords": [
+        "archer",
+        "smirk",
+        "sly",
+        "confident"
+      ],
+      "alias": ":archer_smirk:"
+    },
+    {
+      "id": "sad",
+      "file": "18-sad",
+      "name": "Archer Sad",
+      "fallback": "😔",
+      "keywords": [
+        "archer",
+        "sad",
+        "pensive",
+        "disappointed"
+      ],
+      "alias": ":archer_sad:"
+    },
+    {
+      "id": "cry",
+      "file": "19-cry",
+      "name": "Archer Cry",
+      "fallback": "😢",
+      "keywords": [
+        "archer",
+        "cry",
+        "tear",
+        "sad"
+      ],
+      "alias": ":archer_cry:"
+    },
+    {
+      "id": "sob",
+      "file": "20-sob",
+      "name": "Archer Sob",
+      "fallback": "😭",
+      "keywords": [
+        "archer",
+        "sob",
+        "crying",
+        "tears"
+      ],
+      "alias": ":archer_sob:"
+    },
+    {
+      "id": "angry",
+      "file": "21-angry",
+      "name": "Archer Angry",
+      "fallback": "😠",
+      "keywords": [
+        "archer",
+        "angry",
+        "mad"
+      ],
+      "alias": ":archer_angry:"
+    },
+    {
+      "id": "shock",
+      "file": "22-shock",
+      "name": "Archer Shock",
+      "fallback": "😮",
+      "keywords": [
+        "archer",
+        "wow",
+        "shock",
+        "surprise"
+      ],
+      "alias": ":archer_shock:"
+    },
+    {
+      "id": "pleading",
+      "file": "23-pleading",
+      "name": "Archer Pleading",
+      "fallback": "🥺",
+      "keywords": [
+        "archer",
+        "please",
+        "pleading",
+        "puppy",
+        "eyes"
+      ],
+      "alias": ":archer_pleading:"
+    },
+    {
+      "id": "sleep",
+      "file": "24-sleep",
+      "name": "Archer Sleeping",
+      "fallback": "😴",
+      "keywords": [
+        "archer",
+        "sleep",
+        "zzz",
+        "tired"
+      ],
+      "alias": ":archer_sleep:"
+    }
+  ]
+}

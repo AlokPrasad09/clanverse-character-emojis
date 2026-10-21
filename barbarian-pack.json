@@ -1,0 +1,323 @@
+{
+  "id": "barbarian",
+  "name": "Barbarian",
+  "icon": "⚔️",
+  "dir": "barbarian",
+  "format": "png",
+  "thumbSuffix": "-128.png",
+  "fullSuffix": "-512.png",
+  "items": [
+    {
+      "id": "happy",
+      "file": "01-happy",
+      "name": "Barbarian Happy",
+      "fallback": "😀",
+      "keywords": [
+        "barbarian",
+        "happy",
+        "smile",
+        "grinning"
+      ],
+      "alias": ":barbarian_happy:"
+    },
+    {
+      "id": "grin",
+      "file": "02-grin",
+      "name": "Barbarian Grin",
+      "fallback": "😁",
+      "keywords": [
+        "barbarian",
+        "grin",
+        "teeth",
+        "happy"
+      ],
+      "alias": ":barbarian_grin:"
+    },
+    {
+      "id": "laugh",
+      "file": "03-laugh",
+      "name": "Barbarian Laugh",
+      "fallback": "😆",
+      "keywords": [
+        "barbarian",
+        "laugh",
+        "lol",
+        "squint"
+      ],
+      "alias": ":barbarian_laugh:"
+    },
+    {
+      "id": "tears-of-joy",
+      "file": "04-tears-of-joy",
+      "name": "Barbarian Tears of joy",
+      "fallback": "😂",
+      "keywords": [
+        "barbarian",
+        "joy",
+        "tears",
+        "laugh",
+        "lol"
+      ],
+      "alias": ":barbarian_tears_of_joy:"
+    },
+    {
+      "id": "wink",
+      "file": "05-wink",
+      "name": "Barbarian Wink",
+      "fallback": "😉",
+      "keywords": [
+        "barbarian",
+        "wink",
+        "playful"
+      ],
+      "alias": ":barbarian_wink:"
+    },
+    {
+      "id": "blush",
+      "file": "06-blush",
+      "name": "Barbarian Blush",
+      "fallback": "😊",
+      "keywords": [
+        "barbarian",
+        "blush",
+        "smile",
+        "shy"
+      ],
+      "alias": ":barbarian_blush:"
+    },
+    {
+      "id": "halo",
+      "file": "07-halo",
+      "name": "Barbarian Angel",
+      "fallback": "😇",
+      "keywords": [
+        "barbarian",
+        "angel",
+        "halo",
+        "innocent"
+      ],
+      "alias": ":barbarian_halo:"
+    },
+    {
+      "id": "love",
+      "file": "08-love",
+      "name": "Barbarian Love",
+      "fallback": "🥰",
+      "keywords": [
+        "barbarian",
+        "love",
+        "hearts",
+        "affection"
+      ],
+      "alias": ":barbarian_love:"
+    },
+    {
+      "id": "heart-eyes",
+      "file": "09-heart-eyes",
+      "name": "Barbarian Heart eyes",
+      "fallback": "😍",
+      "keywords": [
+        "barbarian",
+        "heart",
+        "eyes",
+        "love",
+        "crush"
+      ],
+      "alias": ":barbarian_heart_eyes:"
+    },
+    {
+      "id": "kiss",
+      "file": "10-kiss",
+      "name": "Barbarian Kiss",
+      "fallback": "😘",
+      "keywords": [
+        "barbarian",
+        "kiss",
+        "love"
+      ],
+      "alias": ":barbarian_kiss:"
+    },
+    {
+      "id": "tongue",
+      "file": "11-tongue",
+      "name": "Barbarian Tongue out",
+      "fallback": "😛",
+      "keywords": [
+        "barbarian",
+        "tongue",
+        "silly",
+        "fun"
+      ],
+      "alias": ":barbarian_tongue:"
+    },
+    {
+      "id": "zany",
+      "file": "12-zany",
+      "name": "Barbarian Zany",
+      "fallback": "🤪",
+      "keywords": [
+        "barbarian",
+        "zany",
+        "crazy",
+        "wild",
+        "silly"
+      ],
+      "alias": ":barbarian_zany:"
+    },
+    {
+      "id": "cool",
+      "file": "13-cool",
+      "name": "Barbarian Cool",
+      "fallback": "😎",
+      "keywords": [
+        "barbarian",
+        "cool",
+        "sunglasses",
+        "swag"
+      ],
+      "alias": ":barbarian_cool:"
+    },
+    {
+      "id": "thinking",
+      "file": "14-thinking",
+      "name": "Barbarian Thinking",
+      "fallback": "🤔",
+      "keywords": [
+        "barbarian",
+        "think",
+        "hmm",
+        "question"
+      ],
+      "alias": ":barbarian_thinking:"
+    },
+    {
+      "id": "shh",
+      "file": "15-shh",
+      "name": "Barbarian Shh",
+      "fallback": "🤫",
+      "keywords": [
+        "barbarian",
+        "shh",
+        "quiet",
+        "secret"
+      ],
+      "alias": ":barbarian_shh:"
+    },
+    {
+      "id": "neutral",
+      "file": "16-neutral",
+      "name": "Barbarian Neutral",
+      "fallback": "😐",
+      "keywords": [
+        "barbarian",
+        "neutral",
+        "blank"
+      ],
+      "alias": ":barbarian_neutral:"
+    },
+    {
+      "id": "smirk",
+      "file": "17-smirk",
+      "name": "Barbarian Smirk",
+      "fallback": "😏",
+      "keywords": [
+        "barbarian",
+        "smirk",
+        "sly",
+        "confident"
+      ],
+      "alias": ":barbarian_smirk:"
+    },
+    {
+      "id": "sad",
+      "file": "18-sad",
+      "name": "Barbarian Sad",
+      "fallback": "😔",
+      "keywords": [
+        "barbarian",
+        "sad",
+        "pensive",
+        "disappointed"
+      ],
+      "alias": ":barbarian_sad:"
+    },
+    {
+      "id": "cry",
+      "file": "19-cry",
+      "name": "Barbarian Cry",
+      "fallback": "😢",
+      "keywords": [
+        "barbarian",
+        "cry",
+        "tear",
+        "sad"
+      ],
+      "alias": ":barbarian_cry:"
+    },
+    {
+      "id": "sob",
+      "file": "20-sob",
+      "name": "Barbarian Sob",
+      "fallback": "😭",
+      "keywords": [
+        "barbarian",
+        "sob",
+        "crying",
+        "tears"
+      ],
+      "alias": ":barbarian_sob:"
+    },
+    {
+      "id": "angry",
+      "file": "21-angry",
+      "name": "Barbarian Angry",
+      "fallback": "😠",
+      "keywords": [
+        "barbarian",
+        "angry",
+        "mad"
+      ],
+      "alias": ":barbarian_angry:"
+    },
+    {
+      "id": "shock",
+      "file": "22-shock",
+      "name": "Barbarian Shock",
+      "fallback": "😮",
+      "keywords": [
+        "barbarian",
+        "wow",
+        "shock",
+        "surprise"
+      ],
+      "alias": ":barbarian_shock:"
+    },
+    {
+      "id": "pleading",
+      "file": "23-pleading",
+      "name": "Barbarian Pleading",
+      "fallback": "🥺",
+      "keywords": [
+        "barbarian",
+        "please",
+        "pleading",
+        "puppy",
+        "eyes"
+      ],
+      "alias": ":barbarian_pleading:"
+    },
+    {
+      "id": "sleep",
+      "file": "24-sleep",
+      "name": "Barbarian Sleeping",
+      "fallback": "😴",
+      "keywords": [
+        "barbarian",
+        "sleep",
+        "zzz",
+        "tired"
+      ],
+      "alias": ":barbarian_sleep:"
+    }
+  ]
+}

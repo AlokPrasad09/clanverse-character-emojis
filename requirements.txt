@@ -1,0 +1,2 @@
+# Reproduces the verified export environment. Python 3.10 or newer is required.
+Pillow==12.2.0

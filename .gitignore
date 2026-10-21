@@ -1,0 +1,7 @@
+# The parent application ignores README.md globally; publish this pack's guide.
+!README.md
+__pycache__/
+*.py[cod]
+.venv/
+.test-*/
+*.zip

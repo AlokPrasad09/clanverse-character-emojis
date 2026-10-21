@@ -1,0 +1,773 @@
+{
+  "count": 48,
+  "assets": [
+    {
+      "character": "archer",
+      "expression": "happy",
+      "masterSize": [
+        1311,
+        1200
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "archer",
+      "expression": "grin",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "archer",
+      "expression": "laugh",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "archer",
+      "expression": "tears-of-joy",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "archer",
+      "expression": "wink",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "archer",
+      "expression": "blush",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "archer",
+      "expression": "halo",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "archer",
+      "expression": "love",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "archer",
+      "expression": "heart-eyes",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "archer",
+      "expression": "kiss",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "archer",
+      "expression": "tongue",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "archer",
+      "expression": "zany",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "archer",
+      "expression": "cool",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "archer",
+      "expression": "thinking",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "archer",
+      "expression": "shh",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "archer",
+      "expression": "neutral",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "archer",
+      "expression": "smirk",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "archer",
+      "expression": "sad",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "archer",
+      "expression": "cry",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "archer",
+      "expression": "sob",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "archer",
+      "expression": "angry",
+      "masterSize": [
+        1311,
+        1200
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "archer",
+      "expression": "shock",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "archer",
+      "expression": "pleading",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "archer",
+      "expression": "sleep",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "barbarian",
+      "expression": "happy",
+      "masterSize": [
+        1312,
+        1199
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "barbarian",
+      "expression": "grin",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "barbarian",
+      "expression": "laugh",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "barbarian",
+      "expression": "tears-of-joy",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "barbarian",
+      "expression": "wink",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "barbarian",
+      "expression": "blush",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "barbarian",
+      "expression": "halo",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "barbarian",
+      "expression": "love",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "barbarian",
+      "expression": "heart-eyes",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "barbarian",
+      "expression": "kiss",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "barbarian",
+      "expression": "tongue",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "barbarian",
+      "expression": "zany",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "barbarian",
+      "expression": "cool",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "barbarian",
+      "expression": "thinking",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "barbarian",
+      "expression": "shh",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "barbarian",
+      "expression": "neutral",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "barbarian",
+      "expression": "smirk",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "barbarian",
+      "expression": "sad",
+      "masterSize": [
+        1312,
+        1199
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "barbarian",
+      "expression": "cry",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "barbarian",
+      "expression": "sob",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "barbarian",
+      "expression": "angry",
+      "masterSize": [
+        1312,
+        1199
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "barbarian",
+      "expression": "shock",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "barbarian",
+      "expression": "pleading",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    },
+    {
+      "character": "barbarian",
+      "expression": "sleep",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ]
+    }
+  ]
+}
