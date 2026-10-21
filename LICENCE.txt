@@ -1,6 +1,0 @@
-Legacy license filename — see LICENSE in this directory.
-
-LICENSE is the single authoritative license notice for this pack. It contains
-the complete MIT text for Python tools, the CC BY-NC 4.0 asset grant and legal
-code reference, and the Supercell fan content notice. This pointer grants no
-separate permissions and introduces no additional terms.
