@@ -1,0 +1,50 @@
+{
+  "id": "royal-champion",
+  "name": "Royal Champion",
+  "category": "heroic",
+  "dir": "royal-champion",
+  "format": "png",
+  "thumbSuffix": "-128.png",
+  "fullSuffix": "-512.png",
+  "items": [
+    {
+      "id": "shield-guardian",
+      "file": "01-shield-guardian",
+      "name": "Royal Champion — Shield Guardian",
+      "fallback": "⚔️",
+      "keywords": [
+        "royal-champion",
+        "heroic",
+        "shield",
+        "guardian"
+      ],
+      "alias": ":royal_champion_shield_guardian:"
+    },
+    {
+      "id": "spear-leap",
+      "file": "02-spear-leap",
+      "name": "Royal Champion — Spear Leap",
+      "fallback": "⚔️",
+      "keywords": [
+        "royal-champion",
+        "heroic",
+        "spear",
+        "leap"
+      ],
+      "alias": ":royal_champion_spear_leap:"
+    },
+    {
+      "id": "champion-salute",
+      "file": "03-champion-salute",
+      "name": "Royal Champion — Champion Salute",
+      "fallback": "⚔️",
+      "keywords": [
+        "royal-champion",
+        "heroic",
+        "champion",
+        "salute"
+      ],
+      "alias": ":royal_champion_champion_salute:"
+    }
+  ]
+}

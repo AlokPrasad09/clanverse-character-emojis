@@ -1,0 +1,50 @@
+{
+  "id": "hog-rider",
+  "name": "Hog Rider",
+  "category": "comedy",
+  "dir": "hog-rider",
+  "format": "png",
+  "thumbSuffix": "-128.png",
+  "fullSuffix": "-512.png",
+  "items": [
+    {
+      "id": "hog-wheelie",
+      "file": "01-hog-wheelie",
+      "name": "Hog Rider — Hog Wheelie",
+      "fallback": "😆",
+      "keywords": [
+        "hog-rider",
+        "comedy",
+        "hog",
+        "wheelie"
+      ],
+      "alias": ":hog_rider_hog_wheelie:"
+    },
+    {
+      "id": "snack-break",
+      "file": "02-snack-break",
+      "name": "Hog Rider — Snack Break",
+      "fallback": "😆",
+      "keywords": [
+        "hog-rider",
+        "comedy",
+        "snack",
+        "break"
+      ],
+      "alias": ":hog_rider_snack_break:"
+    },
+    {
+      "id": "wrong-way",
+      "file": "03-wrong-way",
+      "name": "Hog Rider — Wrong Way",
+      "fallback": "😆",
+      "keywords": [
+        "hog-rider",
+        "comedy",
+        "wrong",
+        "way"
+      ],
+      "alias": ":hog_rider_wrong_way:"
+    }
+  ]
+}

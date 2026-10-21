@@ -34,6 +34,8 @@ The Python utilities are MIT-licensed open-source software. The artwork is avail
 
 ![All 48 Archer and Barbarian expressions](complete-preview.png)
 
+The full source checkout also includes **30 additional stickers** in `troops-and-heroes/`: three comedy poses each for Dragon, Wizard, Hog Rider, and Bowler, plus three heroic poses each for Barbarian King, Archer Queen, Grand Warden, Royal Champion, Minion Prince, and Dragon Duke. That collection has its own README, prompt plan, runtime manifest, transparent exports, preview, and `Clanverse-Troops-Comedy-Heroes-30.zip`. It is packaged separately from the original 48-expression ZIP described below.
+
 ## Quick start
 
 Use Python 3.10 or newer. The verified environment is Python 3.12 with Pillow 12.2.0; the only third-party dependency is pinned in [requirements.txt](requirements.txt). The exporter tries Windows, Linux, and macOS system fonts, then falls back to Pillow's built-in font. Font differences can change preview typography without changing runtime artwork.
@@ -219,7 +221,7 @@ full_image = root / pack["dir"] / (item["file"] + pack["fullSuffix"])
 assert thumbnail.is_file() and full_image.is_file()
 ```
 
-For web integration, copy the character directories under your public asset base, such as `/public/emoji/`, and register both pack objects in your app's image-emoji registry. Preserve transparency and aspect ratio. Handle image-loading failures with `fallback`, and implement alias parsing explicitly if needed; the JSON does not register aliases automatically. Native apps can bundle the same directories and resolve the same relative filenames. No application code is changed by these asset utilities.
+For web integration, copy the character directories under your public asset base, such as `/public/emoji/`, and register both pack objects in your app's image-emoji registry. Preserve transparency and aspect ratio. Handle image-loading failures with `fallback`, and implement alias parsing explicitly if needed; the JSON does not register aliases automatically. Native apps can bundle the same directories and resolve the same relative filenames. Exporting and packaging do not change application code. In this app checkout, `python assets/clanverse-character-emojis/sync-app-stickers.py` (run from the app repository root) synchronizes all 78 character stickers into web, Flutter, and backend runtime folders, refreshes the troop/hero registry blocks, and declares the Flutter assets. Run the sync utility again after changing or correcting artwork, then format the generated Dart catalog.
 
 The `*-Figma-import.svg` files are self-contained review boards with embedded raster images and editable labels/layout. They are not vector versions of the characters. Drag them into Figma for inspection.
 

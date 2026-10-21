@@ -1,0 +1,516 @@
+{
+  "name": "Clanverse Troops Comedy & Heroic Heroes",
+  "style": "soft 3D character stickers",
+  "total": 30,
+  "categories": {
+    "comedy": 12,
+    "heroic": 18
+  },
+  "packs": [
+    {
+      "id": "dragon",
+      "name": "Dragon",
+      "category": "comedy",
+      "dir": "dragon",
+      "format": "png",
+      "thumbSuffix": "-128.png",
+      "fullSuffix": "-512.png",
+      "items": [
+        {
+          "id": "tiny-fire-sneeze",
+          "file": "01-tiny-fire-sneeze",
+          "name": "Dragon — Tiny Fire Sneeze",
+          "fallback": "😆",
+          "keywords": [
+            "dragon",
+            "comedy",
+            "tiny",
+            "fire",
+            "sneeze"
+          ],
+          "alias": ":dragon_tiny_fire_sneeze:"
+        },
+        {
+          "id": "marshmallow-chef",
+          "file": "02-marshmallow-chef",
+          "name": "Dragon — Marshmallow Chef",
+          "fallback": "😆",
+          "keywords": [
+            "dragon",
+            "comedy",
+            "marshmallow",
+            "chef"
+          ],
+          "alias": ":dragon_marshmallow_chef:"
+        },
+        {
+          "id": "upside-down-hover",
+          "file": "03-upside-down-hover",
+          "name": "Dragon — Upside-down Hover",
+          "fallback": "😆",
+          "keywords": [
+            "dragon",
+            "comedy",
+            "upside",
+            "down",
+            "hover"
+          ],
+          "alias": ":dragon_upside_down_hover:"
+        }
+      ]
+    },
+    {
+      "id": "wizard",
+      "name": "Wizard",
+      "category": "comedy",
+      "dir": "wizard",
+      "format": "png",
+      "thumbSuffix": "-128.png",
+      "fullSuffix": "-512.png",
+      "items": [
+        {
+          "id": "rabbit-misfire",
+          "file": "01-rabbit-misfire",
+          "name": "Wizard — Rabbit Misfire",
+          "fallback": "😆",
+          "keywords": [
+            "wizard",
+            "comedy",
+            "rabbit",
+            "misfire"
+          ],
+          "alias": ":wizard_rabbit_misfire:"
+        },
+        {
+          "id": "mustache-magic",
+          "file": "02-mustache-magic",
+          "name": "Wizard — Mustache Magic",
+          "fallback": "😆",
+          "keywords": [
+            "wizard",
+            "comedy",
+            "mustache",
+            "magic"
+          ],
+          "alias": ":wizard_mustache_magic:"
+        },
+        {
+          "id": "tiny-fireball",
+          "file": "03-tiny-fireball",
+          "name": "Wizard — Tiny Fireball",
+          "fallback": "😆",
+          "keywords": [
+            "wizard",
+            "comedy",
+            "tiny",
+            "fireball"
+          ],
+          "alias": ":wizard_tiny_fireball:"
+        }
+      ]
+    },
+    {
+      "id": "hog-rider",
+      "name": "Hog Rider",
+      "category": "comedy",
+      "dir": "hog-rider",
+      "format": "png",
+      "thumbSuffix": "-128.png",
+      "fullSuffix": "-512.png",
+      "items": [
+        {
+          "id": "hog-wheelie",
+          "file": "01-hog-wheelie",
+          "name": "Hog Rider — Hog Wheelie",
+          "fallback": "😆",
+          "keywords": [
+            "hog-rider",
+            "comedy",
+            "hog",
+            "wheelie"
+          ],
+          "alias": ":hog_rider_hog_wheelie:"
+        },
+        {
+          "id": "snack-break",
+          "file": "02-snack-break",
+          "name": "Hog Rider — Snack Break",
+          "fallback": "😆",
+          "keywords": [
+            "hog-rider",
+            "comedy",
+            "snack",
+            "break"
+          ],
+          "alias": ":hog_rider_snack_break:"
+        },
+        {
+          "id": "wrong-way",
+          "file": "03-wrong-way",
+          "name": "Hog Rider — Wrong Way",
+          "fallback": "😆",
+          "keywords": [
+            "hog-rider",
+            "comedy",
+            "wrong",
+            "way"
+          ],
+          "alias": ":hog_rider_wrong_way:"
+        }
+      ]
+    },
+    {
+      "id": "bowler",
+      "name": "Bowler",
+      "category": "comedy",
+      "dir": "bowler",
+      "format": "png",
+      "thumbSuffix": "-128.png",
+      "fullSuffix": "-512.png",
+      "items": [
+        {
+          "id": "boulder-cuddle",
+          "file": "01-boulder-cuddle",
+          "name": "Bowler — Boulder Cuddle",
+          "fallback": "😆",
+          "keywords": [
+            "bowler",
+            "comedy",
+            "boulder",
+            "cuddle"
+          ],
+          "alias": ":bowler_boulder_cuddle:"
+        },
+        {
+          "id": "rock-balancer",
+          "file": "02-rock-balancer",
+          "name": "Bowler — Rock Balancer",
+          "fallback": "😆",
+          "keywords": [
+            "bowler",
+            "comedy",
+            "rock",
+            "balancer"
+          ],
+          "alias": ":bowler_rock_balancer:"
+        },
+        {
+          "id": "bowling-showoff",
+          "file": "03-bowling-showoff-v2",
+          "name": "Bowler — Bowling Showoff",
+          "fallback": "😆",
+          "keywords": [
+            "bowler",
+            "comedy",
+            "bowling",
+            "showoff"
+          ],
+          "alias": ":bowler_bowling_showoff:",
+          "legacyFiles": [
+            "03-bowling-showoff"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "barbarian-king",
+      "name": "Barbarian King",
+      "category": "heroic",
+      "dir": "barbarian-king",
+      "format": "png",
+      "thumbSuffix": "-128.png",
+      "fullSuffix": "-512.png",
+      "items": [
+        {
+          "id": "royal-stance",
+          "file": "01-royal-stance",
+          "name": "Barbarian King — Royal Stance",
+          "fallback": "⚔️",
+          "keywords": [
+            "barbarian-king",
+            "heroic",
+            "royal",
+            "stance"
+          ],
+          "alias": ":barbarian_king_royal_stance:"
+        },
+        {
+          "id": "sword-charge",
+          "file": "02-sword-charge",
+          "name": "Barbarian King — Sword Charge",
+          "fallback": "⚔️",
+          "keywords": [
+            "barbarian-king",
+            "heroic",
+            "sword",
+            "charge"
+          ],
+          "alias": ":barbarian_king_sword_charge:"
+        },
+        {
+          "id": "victory-salute",
+          "file": "03-victory-salute",
+          "name": "Barbarian King — Victory Salute",
+          "fallback": "⚔️",
+          "keywords": [
+            "barbarian-king",
+            "heroic",
+            "victory",
+            "salute"
+          ],
+          "alias": ":barbarian_king_victory_salute:"
+        }
+      ]
+    },
+    {
+      "id": "archer-queen",
+      "name": "Archer Queen",
+      "category": "heroic",
+      "dir": "archer-queen",
+      "format": "png",
+      "thumbSuffix": "-128.png",
+      "fullSuffix": "-512.png",
+      "items": [
+        {
+          "id": "royal-crossbow",
+          "file": "01-royal-crossbow",
+          "name": "Archer Queen — Royal Crossbow",
+          "fallback": "⚔️",
+          "keywords": [
+            "archer-queen",
+            "heroic",
+            "royal",
+            "crossbow"
+          ],
+          "alias": ":archer_queen_royal_crossbow:"
+        },
+        {
+          "id": "precision-aim",
+          "file": "02-precision-aim",
+          "name": "Archer Queen — Precision Aim",
+          "fallback": "⚔️",
+          "keywords": [
+            "archer-queen",
+            "heroic",
+            "precision",
+            "aim"
+          ],
+          "alias": ":archer_queen_precision_aim:"
+        },
+        {
+          "id": "queen-command",
+          "file": "03-queen-command",
+          "name": "Archer Queen — Queen Command",
+          "fallback": "⚔️",
+          "keywords": [
+            "archer-queen",
+            "heroic",
+            "queen",
+            "command"
+          ],
+          "alias": ":archer_queen_queen_command:"
+        }
+      ]
+    },
+    {
+      "id": "grand-warden",
+      "name": "Grand Warden",
+      "category": "heroic",
+      "dir": "grand-warden",
+      "format": "png",
+      "thumbSuffix": "-128.png",
+      "fullSuffix": "-512.png",
+      "items": [
+        {
+          "id": "arcane-guardian",
+          "file": "01-arcane-guardian",
+          "name": "Grand Warden — Arcane Guardian",
+          "fallback": "⚔️",
+          "keywords": [
+            "grand-warden",
+            "heroic",
+            "arcane",
+            "guardian"
+          ],
+          "alias": ":grand_warden_arcane_guardian:"
+        },
+        {
+          "id": "eternal-aura",
+          "file": "02-eternal-aura",
+          "name": "Grand Warden — Eternal Aura",
+          "fallback": "⚔️",
+          "keywords": [
+            "grand-warden",
+            "heroic",
+            "eternal",
+            "aura"
+          ],
+          "alias": ":grand_warden_eternal_aura:"
+        },
+        {
+          "id": "staff-command",
+          "file": "03-staff-command",
+          "name": "Grand Warden — Staff Command",
+          "fallback": "⚔️",
+          "keywords": [
+            "grand-warden",
+            "heroic",
+            "staff",
+            "command"
+          ],
+          "alias": ":grand_warden_staff_command:"
+        }
+      ]
+    },
+    {
+      "id": "royal-champion",
+      "name": "Royal Champion",
+      "category": "heroic",
+      "dir": "royal-champion",
+      "format": "png",
+      "thumbSuffix": "-128.png",
+      "fullSuffix": "-512.png",
+      "items": [
+        {
+          "id": "shield-guardian",
+          "file": "01-shield-guardian",
+          "name": "Royal Champion — Shield Guardian",
+          "fallback": "⚔️",
+          "keywords": [
+            "royal-champion",
+            "heroic",
+            "shield",
+            "guardian"
+          ],
+          "alias": ":royal_champion_shield_guardian:"
+        },
+        {
+          "id": "spear-leap",
+          "file": "02-spear-leap",
+          "name": "Royal Champion — Spear Leap",
+          "fallback": "⚔️",
+          "keywords": [
+            "royal-champion",
+            "heroic",
+            "spear",
+            "leap"
+          ],
+          "alias": ":royal_champion_spear_leap:"
+        },
+        {
+          "id": "champion-salute",
+          "file": "03-champion-salute",
+          "name": "Royal Champion — Champion Salute",
+          "fallback": "⚔️",
+          "keywords": [
+            "royal-champion",
+            "heroic",
+            "champion",
+            "salute"
+          ],
+          "alias": ":royal_champion_champion_salute:"
+        }
+      ]
+    },
+    {
+      "id": "minion-prince",
+      "name": "Minion Prince",
+      "category": "heroic",
+      "dir": "minion-prince",
+      "format": "png",
+      "thumbSuffix": "-128.png",
+      "fullSuffix": "-512.png",
+      "items": [
+        {
+          "id": "royal-hover",
+          "file": "01-royal-hover",
+          "name": "Minion Prince — Royal Hover",
+          "fallback": "⚔️",
+          "keywords": [
+            "minion-prince",
+            "heroic",
+            "royal",
+            "hover"
+          ],
+          "alias": ":minion_prince_royal_hover:"
+        },
+        {
+          "id": "dark-orb",
+          "file": "02-dark-orb",
+          "name": "Minion Prince — Dark Orb",
+          "fallback": "⚔️",
+          "keywords": [
+            "minion-prince",
+            "heroic",
+            "dark",
+            "orb"
+          ],
+          "alias": ":minion_prince_dark_orb:"
+        },
+        {
+          "id": "sky-command",
+          "file": "03-sky-command",
+          "name": "Minion Prince — Sky Command",
+          "fallback": "⚔️",
+          "keywords": [
+            "minion-prince",
+            "heroic",
+            "sky",
+            "command"
+          ],
+          "alias": ":minion_prince_sky_command:"
+        }
+      ]
+    },
+    {
+      "id": "dragon-duke",
+      "name": "Dragon Duke",
+      "category": "heroic",
+      "dir": "dragon-duke",
+      "format": "png",
+      "thumbSuffix": "-128.png",
+      "fullSuffix": "-512.png",
+      "items": [
+        {
+          "id": "duke-unleashed",
+          "file": "01-duke-unleashed",
+          "name": "Dragon Duke — Duke Unleashed",
+          "fallback": "⚔️",
+          "keywords": [
+            "dragon-duke",
+            "heroic",
+            "duke",
+            "unleashed"
+          ],
+          "alias": ":dragon_duke_duke_unleashed:"
+        },
+        {
+          "id": "royal-rampage",
+          "file": "02-royal-rampage",
+          "name": "Dragon Duke — Royal Rampage",
+          "fallback": "⚔️",
+          "keywords": [
+            "dragon-duke",
+            "heroic",
+            "royal",
+            "rampage"
+          ],
+          "alias": ":dragon_duke_royal_rampage:"
+        },
+        {
+          "id": "flame-sovereign",
+          "file": "03-flame-sovereign",
+          "name": "Dragon Duke — Flame Sovereign",
+          "fallback": "⚔️",
+          "keywords": [
+            "dragon-duke",
+            "heroic",
+            "flame",
+            "sovereign"
+          ],
+          "alias": ":dragon_duke_flame_sovereign:"
+        }
+      ]
+    }
+  ]
+}

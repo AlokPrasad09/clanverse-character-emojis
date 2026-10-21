@@ -1,0 +1,50 @@
+{
+  "id": "barbarian-king",
+  "name": "Barbarian King",
+  "category": "heroic",
+  "dir": "barbarian-king",
+  "format": "png",
+  "thumbSuffix": "-128.png",
+  "fullSuffix": "-512.png",
+  "items": [
+    {
+      "id": "royal-stance",
+      "file": "01-royal-stance",
+      "name": "Barbarian King — Royal Stance",
+      "fallback": "⚔️",
+      "keywords": [
+        "barbarian-king",
+        "heroic",
+        "royal",
+        "stance"
+      ],
+      "alias": ":barbarian_king_royal_stance:"
+    },
+    {
+      "id": "sword-charge",
+      "file": "02-sword-charge",
+      "name": "Barbarian King — Sword Charge",
+      "fallback": "⚔️",
+      "keywords": [
+        "barbarian-king",
+        "heroic",
+        "sword",
+        "charge"
+      ],
+      "alias": ":barbarian_king_sword_charge:"
+    },
+    {
+      "id": "victory-salute",
+      "file": "03-victory-salute",
+      "name": "Barbarian King — Victory Salute",
+      "fallback": "⚔️",
+      "keywords": [
+        "barbarian-king",
+        "heroic",
+        "victory",
+        "salute"
+      ],
+      "alias": ":barbarian_king_victory_salute:"
+    }
+  ]
+}

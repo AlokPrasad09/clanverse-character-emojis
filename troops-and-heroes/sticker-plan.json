@@ -1,0 +1,334 @@
+{
+  "name": "Clanverse Troops Comedy & Heroic Heroes",
+  "generationMode": "built-in image_gen",
+  "scope": "Three individual stickers per character; comedy troops and heroic Home Village heroes.",
+  "heroRosterSource": "https://support.supercell.com/clash-of-clans/en/articles/about-heroes-pets-9.html",
+  "stickers": [
+    {
+      "character": "dragon",
+      "characterName": "Dragon",
+      "category": "comedy",
+      "id": "tiny-fire-sneeze",
+      "label": "Tiny Fire Sneeze",
+      "number": 1,
+      "file": "dragon/01-tiny-fire-sneeze",
+      "prompt": "Use case: stylized-concept. Asset type: ONE premium transparent PNG comedy chat sticker for Clanverse. Subject: the recognizable classic purple Dragon troop from Clash of Clans, with rounded purple head and body, small ivory horns, orange wing membranes, tiny forearms, stout proportions. Comedy action: a huge theatrical sneeze produces one absurdly tiny harmless orange flame, cheeks puffed and eyes comically crossed toward the tiny flame. This is a situational gag, not a generic happy, sad, or crying face. Polished soft 3D game-toy render, rounded sculpted forms, smooth restrained satin highlights, warm upper-left studio light; matches a premium mobile character sticker set. Composition: ONE isolated character, compact three-quarter/full-body pose, entire head, horns, wings and flame visible, centered square composition, subject fills about 82 percent of canvas with generous transparent edge padding. Genuine transparent alpha background. No background, ground, scenery, card, border, white sticker outline, text, letters, captions, watermark, logos, extra characters, violence or photo-realism. Keep silhouette readable at 128px. Output exactly one individual sticker, not a sheet or grid."
+    },
+    {
+      "character": "dragon",
+      "characterName": "Dragon",
+      "category": "comedy",
+      "id": "marshmallow-chef",
+      "label": "Marshmallow Chef",
+      "number": 2,
+      "file": "dragon/02-marshmallow-chef",
+      "prompt": "Use case: stylized-concept. Asset type: ONE individual premium transparent PNG chat sticker for Clanverse. Style: polished soft 3D mobile game-toy render, rounded sculpted forms, smooth restrained satin highlights, warm upper-left studio lighting, consistent premium character sticker art. Subject identity: Classic purple Clash of Clans Dragon troop: rounded purple head and body, small ivory horns, orange wing membranes, tiny forearms, stout body. Comedy direction: situational visual slapstick, exaggerated body language, instantly readable funny gag. Do NOT make a generic happy/sad/crying emotion portrait. No tears. Specific action: Carefully roasting one giant marshmallow on a little wooden skewer using a comically tiny flame from his own mouth; extremely focused chef-like concentration; the marshmallow is slightly larger than his snout. Composition: one isolated character (the Hog Rider includes his own boar), compact full-body or three-quarter action, entire head, gear, wings and all key props fully visible inside the frame; centered square composition, subject fills about 82 percent, generous clear edge padding. Genuine transparent alpha background. Preserve character silhouette and readable face at 128px. No background, ground plane, scenery, card, frame, white sticker border, text, letters, captions, logos, watermark, unrelated extra characters, photo-realism, injury, blood or gore. Output exactly ONE sticker image, never a sheet, collage or grid."
+    },
+    {
+      "character": "dragon",
+      "characterName": "Dragon",
+      "category": "comedy",
+      "id": "upside-down-hover",
+      "label": "Upside-down Hover",
+      "number": 3,
+      "file": "dragon/03-upside-down-hover",
+      "prompt": "Use case: stylized-concept. Asset type: ONE individual premium transparent PNG chat sticker for Clanverse. Style: polished soft 3D mobile game-toy render, rounded sculpted forms, smooth restrained satin highlights, warm upper-left studio lighting, consistent premium character sticker art. Subject identity: Classic purple Clash of Clans Dragon troop: rounded purple head and body, small ivory horns, orange wing membranes, tiny forearms, stout body. Comedy direction: situational visual slapstick, exaggerated body language, instantly readable funny gag. Do NOT make a generic happy/sad/crying emotion portrait. No tears. Specific action: Hovering accidentally upside down with tiny frantic wings, short legs dangling upward and tongue comically poking sideways, giving the viewer a mischievous awkward look. No tears. Composition: one isolated character (the Hog Rider includes his own boar), compact full-body or three-quarter action, entire head, gear, wings and all key props fully visible inside the frame; centered square composition, subject fills about 82 percent, generous clear edge padding. Genuine transparent alpha background. Preserve character silhouette and readable face at 128px. No background, ground plane, scenery, card, frame, white sticker border, text, letters, captions, logos, watermark, unrelated extra characters, photo-realism, injury, blood or gore. Output exactly ONE sticker image, never a sheet, collage or grid."
+    },
+    {
+      "character": "wizard",
+      "characterName": "Wizard",
+      "category": "comedy",
+      "id": "rabbit-misfire",
+      "label": "Rabbit Misfire",
+      "number": 1,
+      "file": "wizard/01-rabbit-misfire",
+      "prompt": "Use case: stylized-concept. Asset type: ONE individual premium transparent PNG chat sticker for Clanverse. Style: polished soft 3D mobile game-toy render, rounded sculpted forms, smooth restrained satin highlights, warm upper-left studio lighting, consistent premium character sticker art. Subject identity: Classic Clash of Clans Wizard: adult human with dark brown hair and pointed goatee, strong brows, royal-blue hooded robe with light-blue trim, brown belt, brown boots. Comedy direction: situational visual slapstick, exaggerated body language, instantly readable funny gag. Do NOT make a generic happy/sad/crying emotion portrait. No tears. Specific action: Holding his palms up after a spell has unexpectedly produced one absurdly chubby white rabbit sitting in his hands; wizard stares with one raised eyebrow; tiny violet sparkles. Rabbit is a prop-sized magical gag, not a second equal protagonist. Composition: one isolated character (the Hog Rider includes his own boar), compact full-body or three-quarter action, entire head, gear, wings and all key props fully visible inside the frame; centered square composition, subject fills about 82 percent, generous clear edge padding. Genuine transparent alpha background. Preserve character silhouette and readable face at 128px. No background, ground plane, scenery, card, frame, white sticker border, text, letters, captions, logos, watermark, unrelated extra characters, photo-realism, injury, blood or gore. Output exactly ONE sticker image, never a sheet, collage or grid."
+    },
+    {
+      "character": "wizard",
+      "characterName": "Wizard",
+      "category": "comedy",
+      "id": "mustache-magic",
+      "label": "Mustache Magic",
+      "number": 2,
+      "file": "wizard/02-mustache-magic",
+      "prompt": "Use case: stylized-concept. Asset type: ONE individual premium transparent PNG chat sticker for Clanverse. Style: polished soft 3D mobile game-toy render, rounded sculpted forms, smooth restrained satin highlights, warm upper-left studio lighting, consistent premium character sticker art. Subject identity: Classic Clash of Clans Wizard: adult human with dark brown hair and pointed goatee, strong brows, royal-blue hooded robe with light-blue trim, brown belt, brown boots. Comedy direction: situational visual slapstick, exaggerated body language, instantly readable funny gag. Do NOT make a generic happy/sad/crying emotion portrait. No tears. Specific action: A misfired spell has turned his own goatee into an enormous curly handlebar moustache twice the width of his face; he pinches one curling tip with a finger, squinting suspiciously; one small purple magic sparkle. Composition: one isolated character (the Hog Rider includes his own boar), compact full-body or three-quarter action, entire head, gear, wings and all key props fully visible inside the frame; centered square composition, subject fills about 82 percent, generous clear edge padding. Genuine transparent alpha background. Preserve character silhouette and readable face at 128px. No background, ground plane, scenery, card, frame, white sticker border, text, letters, captions, logos, watermark, unrelated extra characters, photo-realism, injury, blood or gore. Output exactly ONE sticker image, never a sheet, collage or grid."
+    },
+    {
+      "character": "wizard",
+      "characterName": "Wizard",
+      "category": "comedy",
+      "id": "tiny-fireball",
+      "label": "Tiny Fireball",
+      "number": 3,
+      "file": "wizard/03-tiny-fireball",
+      "prompt": "Use case: stylized-concept. Asset type: ONE individual premium transparent PNG chat sticker for Clanverse. Style: polished soft 3D mobile game-toy render, rounded sculpted forms, smooth restrained satin highlights, warm upper-left studio lighting, consistent premium character sticker art. Subject identity: Classic Clash of Clans Wizard: adult human with dark brown hair and pointed goatee, strong brows, royal-blue hooded robe with light-blue trim, brown belt, brown boots. Comedy direction: situational visual slapstick, exaggerated body language, instantly readable funny gag. Do NOT make a generic happy/sad/crying emotion portrait. No tears. Specific action: Showing off with a dramatic wide martial-arts stance and overconfident eyebrows, but the floating fireball above his outstretched palm is comically tiny, the size of a pea. Contrast between epic pose and tiny result. Composition: one isolated character (the Hog Rider includes his own boar), compact full-body or three-quarter action, entire head, gear, wings and all key props fully visible inside the frame; centered square composition, subject fills about 82 percent, generous clear edge padding. Genuine transparent alpha background. Preserve character silhouette and readable face at 128px. No background, ground plane, scenery, card, frame, white sticker border, text, letters, captions, logos, watermark, unrelated extra characters, photo-realism, injury, blood or gore. Output exactly ONE sticker image, never a sheet, collage or grid."
+    },
+    {
+      "character": "hog-rider",
+      "characterName": "Hog Rider",
+      "category": "comedy",
+      "id": "hog-wheelie",
+      "label": "Hog Wheelie",
+      "number": 1,
+      "file": "hog-rider/01-hog-wheelie",
+      "prompt": "Use case: stylized-concept. Asset type: ONE individual premium transparent PNG chat sticker for Clanverse. Style: polished soft 3D mobile game-toy render, rounded sculpted forms, smooth restrained satin highlights, warm upper-left studio lighting, consistent premium character sticker art. Subject identity: Recognizable Clash of Clans Hog Rider: muscular dark-skinned adult warrior, black mohawk, black beard, gold hoop earring, bare chest, brown belt and wristbands, riding a compact pink-brown boar with small ivory tusks. Comedy direction: situational visual slapstick, exaggerated body language, instantly readable funny gag. Do NOT make a generic happy/sad/crying emotion portrait. No tears. Specific action: The boar does a ridiculous wheelie on its back legs while the rider leans far backward with an oversized open-mouthed whoa expression and one hand in the air; both are fully visible, balanced silly acrobatic pose. Composition: one isolated character (the Hog Rider includes his own boar), compact full-body or three-quarter action, entire head, gear, wings and all key props fully visible inside the frame; centered square composition, subject fills about 82 percent, generous clear edge padding. Genuine transparent alpha background. Preserve character silhouette and readable face at 128px. No background, ground plane, scenery, card, frame, white sticker border, text, letters, captions, logos, watermark, unrelated extra characters, photo-realism, injury, blood or gore. Output exactly ONE sticker image, never a sheet, collage or grid."
+    },
+    {
+      "character": "hog-rider",
+      "characterName": "Hog Rider",
+      "category": "comedy",
+      "id": "snack-break",
+      "label": "Snack Break",
+      "number": 2,
+      "file": "hog-rider/02-snack-break",
+      "prompt": "Use case: stylized-concept. Asset type: ONE individual premium transparent PNG chat sticker for Clanverse. Style: polished soft 3D mobile game-toy render, rounded sculpted forms, smooth restrained satin highlights, warm upper-left studio lighting, consistent premium character sticker art. Subject identity: Recognizable Clash of Clans Hog Rider: muscular dark-skinned adult warrior, black mohawk, black beard, gold hoop earring, bare chest, brown belt and wristbands, riding a compact pink-brown boar with small ivory tusks. Comedy direction: situational visual slapstick, exaggerated body language, instantly readable funny gag. Do NOT make a generic happy/sad/crying emotion portrait. No tears. Specific action: Rider leans forward to offer a small red apple, but the boar has turned its head backward and already taken a huge bite; rider gives a comically unimpressed side-eye; his oversized mallet rests sideways across his lap. Composition: one isolated character (the Hog Rider includes his own boar), compact full-body or three-quarter action, entire head, gear, wings and all key props fully visible inside the frame; centered square composition, subject fills about 82 percent, generous clear edge padding. Genuine transparent alpha background. Preserve character silhouette and readable face at 128px. No background, ground plane, scenery, card, frame, white sticker border, text, letters, captions, logos, watermark, unrelated extra characters, photo-realism, injury, blood or gore. Output exactly ONE sticker image, never a sheet, collage or grid."
+    },
+    {
+      "character": "hog-rider",
+      "characterName": "Hog Rider",
+      "category": "comedy",
+      "id": "wrong-way",
+      "label": "Wrong Way",
+      "number": 3,
+      "file": "hog-rider/03-wrong-way",
+      "prompt": "Use case: stylized-concept. Asset type: ONE individual premium transparent PNG chat sticker for Clanverse. Style: polished soft 3D mobile game-toy render, rounded sculpted forms, smooth restrained satin highlights, warm upper-left studio lighting, consistent premium character sticker art. Subject identity: Recognizable Clash of Clans Hog Rider: muscular dark-skinned adult warrior, black mohawk, black beard, gold hoop earring, bare chest, brown belt and wristbands, riding a compact pink-brown boar with small ivory tusks. Comedy direction: situational visual slapstick, exaggerated body language, instantly readable funny gag. Do NOT make a generic happy/sad/crying emotion portrait. No tears. Specific action: Rider sits backward on the boar, facing its curly tail, proudly pointing in the opposite direction from where the boar is heading; boar tilts its head toward the viewer with a knowing side-eye. Clear silly wrong-direction gag. Composition: one isolated character (the Hog Rider includes his own boar), compact full-body or three-quarter action, entire head, gear, wings and all key props fully visible inside the frame; centered square composition, subject fills about 82 percent, generous clear edge padding. Genuine transparent alpha background. Preserve character silhouette and readable face at 128px. No background, ground plane, scenery, card, frame, white sticker border, text, letters, captions, logos, watermark, unrelated extra characters, photo-realism, injury, blood or gore. Output exactly ONE sticker image, never a sheet, collage or grid."
+    },
+    {
+      "character": "bowler",
+      "characterName": "Bowler",
+      "category": "comedy",
+      "id": "boulder-cuddle",
+      "label": "Boulder Cuddle",
+      "number": 1,
+      "file": "bowler/01-boulder-cuddle",
+      "prompt": "Use case: stylized-concept. Asset type: ONE individual premium transparent PNG chat sticker for Clanverse. Style: polished soft 3D mobile game-toy render, rounded sculpted forms, smooth restrained satin highlights, warm upper-left studio lighting, consistent premium character sticker art. Subject identity: Classic Clash of Clans Bowler: bulky blue-skinned adult humanoid, small pointed ears, dark blue hair crest, massive forearms, dark loincloth, purple belt, and oversized round purple boulder. Comedy direction: situational visual slapstick, exaggerated body language, instantly readable funny gag. Do NOT make a generic happy/sad/crying emotion portrait. No tears. Specific action: Hugging his gigantic purple boulder like a favourite teddy bear, cheek pressed against it, one eyebrow lifted smugly as if nobody may borrow his rock; little legs and big arms fully visible. Composition: one isolated character (the Hog Rider includes his own boar), compact full-body or three-quarter action, entire head, gear, wings and all key props fully visible inside the frame; centered square composition, subject fills about 82 percent, generous clear edge padding. Genuine transparent alpha background. Preserve character silhouette and readable face at 128px. No background, ground plane, scenery, card, frame, white sticker border, text, letters, captions, logos, watermark, unrelated extra characters, photo-realism, injury, blood or gore. Output exactly ONE sticker image, never a sheet, collage or grid."
+    },
+    {
+      "character": "bowler",
+      "characterName": "Bowler",
+      "category": "comedy",
+      "id": "rock-balancer",
+      "label": "Rock Balancer",
+      "number": 2,
+      "file": "bowler/02-rock-balancer",
+      "prompt": "Use case: stylized-concept. Asset type: ONE individual premium transparent PNG chat sticker for Clanverse. Style: polished soft 3D mobile game-toy render, rounded sculpted forms, smooth restrained satin highlights, warm upper-left studio lighting, consistent premium character sticker art. Subject identity: Classic Clash of Clans Bowler: bulky blue-skinned adult humanoid, small pointed ears, dark blue hair crest, massive forearms, dark loincloth, purple belt, and oversized round purple boulder. Comedy direction: situational visual slapstick, exaggerated body language, instantly readable funny gag. Do NOT make a generic happy/sad/crying emotion portrait. No tears. Specific action: Balancing an enormous round purple boulder on the tip of one raised index finger while looking cross-eyed upward at it; very serious comic concentration, wobbling knee pose; no injury or danger. Composition: one isolated character (the Hog Rider includes his own boar), compact full-body or three-quarter action, entire head, gear, wings and all key props fully visible inside the frame; centered square composition, subject fills about 82 percent, generous clear edge padding. Genuine transparent alpha background. Preserve character silhouette and readable face at 128px. No background, ground plane, scenery, card, frame, white sticker border, text, letters, captions, logos, watermark, unrelated extra characters, photo-realism, injury, blood or gore. Output exactly ONE sticker image, never a sheet, collage or grid."
+    },
+    {
+      "character": "bowler",
+      "characterName": "Bowler",
+      "category": "comedy",
+      "id": "bowling-showoff",
+      "label": "Bowling Showoff",
+      "number": 3,
+      "file": "bowler/03-bowling-showoff-v2",
+      "prompt": "Use case: stylized-concept. Asset type: ONE individual premium transparent PNG chat sticker for Clanverse. Style: polished soft 3D mobile game-toy render, rounded sculpted forms, smooth restrained satin highlights, warm upper-left studio lighting, consistent premium character sticker art. Subject identity: Classic Clash of Clans Bowler: bulky blue-skinned adult humanoid, small pointed ears, dark blue hair crest, massive forearms, dark loincloth, purple belt, and oversized round purple boulder. Comedy direction: situational visual slapstick, exaggerated body language, instantly readable funny gag. Do NOT make a generic happy/sad/crying emotion portrait. No tears. Specific action: Standing in a wildly over-the-top bowling follow-through, one huge arm swept across his chest and one foot kicked high behind him; a tiny pebble, rather than his usual giant boulder, has just left his other hand. Composition: one isolated character (the Hog Rider includes his own boar), compact full-body or three-quarter action, entire head, gear, wings and all key props fully visible inside the frame; centered square composition, subject fills about 82 percent, generous clear edge padding. Genuine transparent alpha background. Preserve character silhouette and readable face at 128px. No background, ground plane, scenery, card, frame, white sticker border, text, letters, captions, logos, watermark, unrelated extra characters, photo-realism, injury, blood or gore. Output exactly ONE sticker image, never a sheet, collage or grid.",
+      "revisionPrompt": "Use case: identity-preserve. Edit target: the supplied blue Bowler comedy sticker. REDRAW THE ARM POSE; the previous crossed-overhead arm arrangement is anatomically confusing and must be replaced, not merely retouched. Keep the recognizable same adult blue-skinned Bowler identity, dark-blue crest, pointed ears, cheeky grin, chunky muscular body, purple stone-studded belt, brown loincloth, tiny flying purple pebble and polished soft 3D game-sticker rendering. New clear bowling pose: show his torso in an open three-quarter angle with TWO SEPARATE shoulders visible. His bowling arm comes naturally from the near shoulder, elbow slightly bent, reaching FORWARD AND DOWN in a relaxed underhand bowling follow-through; its open hand has four naturally spaced fingers and one correctly placed thumb, palm angled toward the small released pebble. His other arm stays on the OPPOSITE side of his torso, with a simple naturally bent elbow and its hand resting firmly on his hip, clearly separated from the bowling arm. Both shoulder-to-elbow-to-wrist chains must be unambiguous. NO arms crossed in front of chest, NO raised fist above head, NO merging shoulders, NO duplicate limbs, NO twisted wrists or extra fingers. One foot planted, opposite foot lightly lifted behind in a playful show-off balance. Keep all hands, feet, ears, hair and the pebble fully visible inside the central 80 percent of a square composition. Transparent background with clear alpha padding. No scenery, floor, text, watermark, logos or white border. Exactly ONE individual sticker.",
+      "revisionPurpose": "Redraw crossed arms into a clear hand-on-hip underhand bowling pose; version filename to invalidate old picker caches",
+      "revisionHistory": [
+        {
+          "purpose": "Correct malformed fingers and wrist anatomy on both hands",
+          "prompt": "Use case: precise-object-edit. Edit target: the attached blue Bowler comedy sticker. Correct ONLY the two hands and their wrist/forearm connections. The forward bowling-release hand at the lower right currently has malformed fingers: rebuild it as one believable blue cartoon hand with exactly five anatomically coherent digits (four fingers and one opposable thumb), clear palm structure, naturally curved separated fingers and a relaxed bowling follow-through. The raised hand above/left of the face must be one natural clenched fist with correct knuckles and one correctly placed thumb, smoothly connected to its wrist. Exactly TWO arms attached to the two shoulders, two elbows and two hands; no extra digits, fused fingers, duplicate limbs, broken wrists or mitten hands. Keep the same over-the-top bowling pose, grinning face, blue skin, body proportions, mohawk, pointed ears, purple stone-studded belt, brown loincloth, lifted back leg, tiny airborne pebble, and polished soft 3D lighting. Preserve the entire full-body framing with every body part inside the square canvas. No text, logos, watermark, white outline, ground or background. Preserve genuine transparent alpha. One corrected individual sticker."
+        }
+      ],
+      "legacyFiles": [
+        "03-bowling-showoff"
+      ]
+    },
+    {
+      "character": "barbarian-king",
+      "characterName": "Barbarian King",
+      "category": "heroic",
+      "id": "royal-stance",
+      "label": "Royal Stance",
+      "number": 1,
+      "file": "barbarian-king/01-royal-stance",
+      "prompt": "Use case: stylized-concept. Asset type: ONE individual premium transparent PNG chat sticker for Clanverse. Style: polished soft 3D mobile game-toy render, rounded sculpted forms, smooth restrained satin highlights, warm upper-left studio lighting, consistent premium character sticker art. Subject identity: Clash of Clans Barbarian King: imposing muscular adult man, blond hair and huge blond moustache, angular gold crown, broad jaw, brown leather belt and kilt, heavy steel gauntlet and large broad sword. Hero direction: proper regal battle-hero identity, dignified powerful pose, impressive proportions and serious confident presence. Not comedy, not baby/chibi, not a generic happy/sad/crying face. Specific action: Regal champion stance with broad sword held upright beside his shoulder, free fist planted at his waist, chin lifted, commanding determined gaze. Composition: one isolated character (the Hog Rider includes his own boar), compact full-body or three-quarter action, entire head, gear, wings and all key props fully visible inside the frame; centered square composition, subject fills about 82 percent, generous clear edge padding. Genuine transparent alpha background. Preserve character silhouette and readable face at 128px. No background, ground plane, scenery, card, frame, white sticker border, text, letters, captions, logos, watermark, unrelated extra characters, photo-realism, injury, blood or gore. Output exactly ONE sticker image, never a sheet, collage or grid."
+    },
+    {
+      "character": "barbarian-king",
+      "characterName": "Barbarian King",
+      "category": "heroic",
+      "id": "sword-charge",
+      "label": "Sword Charge",
+      "number": 2,
+      "file": "barbarian-king/02-sword-charge",
+      "prompt": "Use case: stylized-concept. Asset type: ONE individual premium transparent PNG chat sticker for Clanverse. Style: polished soft 3D mobile game-toy render, rounded sculpted forms, smooth restrained satin highlights, warm upper-left studio lighting, consistent premium character sticker art. Subject identity: Clash of Clans Barbarian King: imposing muscular adult man, blond hair and huge blond moustache, angular gold crown, broad jaw, brown leather belt and kilt, heavy steel gauntlet and large broad sword. Hero direction: proper regal battle-hero identity, dignified powerful pose, impressive proportions and serious confident presence. Not comedy, not baby/chibi, not a generic happy/sad/crying face. Specific action: Powerful forward charge with broad sword angled diagonally upward, cape or leather kilt flowing behind, fierce focused eyes, complete blade and feet inside frame. Composition: one isolated character (the Hog Rider includes his own boar), compact full-body or three-quarter action, entire head, gear, wings and all key props fully visible inside the frame; centered square composition, subject fills about 82 percent, generous clear edge padding. Genuine transparent alpha background. Preserve character silhouette and readable face at 128px. No background, ground plane, scenery, card, frame, white sticker border, text, letters, captions, logos, watermark, unrelated extra characters, photo-realism, injury, blood or gore. Output exactly ONE sticker image, never a sheet, collage or grid."
+    },
+    {
+      "character": "barbarian-king",
+      "characterName": "Barbarian King",
+      "category": "heroic",
+      "id": "victory-salute",
+      "label": "Victory Salute",
+      "number": 3,
+      "file": "barbarian-king/03-victory-salute",
+      "prompt": "Use case: stylized-concept. Asset type: ONE individual premium transparent PNG chat sticker for Clanverse. Style: polished soft 3D mobile game-toy render, rounded sculpted forms, smooth restrained satin highlights, warm upper-left studio lighting, consistent premium character sticker art. Subject identity: Clash of Clans Barbarian King: imposing muscular adult man, blond hair and huge blond moustache, angular gold crown, broad jaw, brown leather belt and kilt, heavy steel gauntlet and large broad sword. Hero direction: proper regal battle-hero identity, dignified powerful pose, impressive proportions and serious confident presence. Not comedy, not baby/chibi, not a generic happy/sad/crying face. Specific action: Raising his massive sword overhead in a dignified victory salute, other fist clenched near his chest, crown and moustache unmistakable; a few tiny gold glints, no trophy or text. Composition: one isolated character (the Hog Rider includes his own boar), compact full-body or three-quarter action, entire head, gear, wings and all key props fully visible inside the frame; centered square composition, subject fills about 82 percent, generous clear edge padding. Genuine transparent alpha background. Preserve character silhouette and readable face at 128px. No background, ground plane, scenery, card, frame, white sticker border, text, letters, captions, logos, watermark, unrelated extra characters, photo-realism, injury, blood or gore. Output exactly ONE sticker image, never a sheet, collage or grid."
+    },
+    {
+      "character": "archer-queen",
+      "characterName": "Archer Queen",
+      "category": "heroic",
+      "id": "royal-crossbow",
+      "label": "Royal Crossbow",
+      "number": 1,
+      "file": "archer-queen/01-royal-crossbow",
+      "prompt": "Use case: stylized-concept. Asset type: ONE individual premium transparent PNG chat sticker for Clanverse. Style: polished soft 3D mobile game-toy render, rounded sculpted forms, smooth restrained satin highlights, warm upper-left studio lighting, consistent premium character sticker art. Subject identity: Clash of Clans Archer Queen, an adult heroic woman: long violet-purple hair, small gold crown, forest-green sleeveless dress and cape, brown belt, large crossbow and confident regal facial features. Hero direction: proper regal battle-hero identity, dignified powerful pose, impressive proportions and serious confident presence. Not comedy, not baby/chibi, not a generic happy/sad/crying face. Specific action: Standing proudly in a regal three-quarter stance with her crossbow resting diagonally across her front, chin slightly lifted, direct confident gaze. Composition: one isolated character (the Hog Rider includes his own boar), compact full-body or three-quarter action, entire head, gear, wings and all key props fully visible inside the frame; centered square composition, subject fills about 82 percent, generous clear edge padding. Genuine transparent alpha background. Preserve character silhouette and readable face at 128px. No background, ground plane, scenery, card, frame, white sticker border, text, letters, captions, logos, watermark, unrelated extra characters, photo-realism, injury, blood or gore. Output exactly ONE sticker image, never a sheet, collage or grid.",
+      "revisionPrompt": "Use case: identity-preserve. Edit target: the attached Clanverse character sticker. Change ONLY composition/framing to fix a too-tight crop. Preserve the exact character identity, facial features, pose, proportions, colours, signature gear, polished soft 3D rendering and lighting. Restore the complete crown tips and both boot soles; the current top and bottom edges are clipped. IMPORTANT: zoom out substantially; the ENTIRE silhouette including magic effects must fit inside the central 70 percent of a square canvas. Leave an obvious completely empty transparent margin of at least 15 percent on ALL FOUR edges, especially at top and bottom. Reconstruct any parts cut off by the previous canvas. No new props, no text, no logos, no watermark, no outline, no background or floor. Actual transparent alpha, never a drawn checkerboard. One individual sticker.",
+      "revisionPurpose": "Recover edge-clipped details and improve transparent framing"
+    },
+    {
+      "character": "archer-queen",
+      "characterName": "Archer Queen",
+      "category": "heroic",
+      "id": "precision-aim",
+      "label": "Precision Aim",
+      "number": 2,
+      "file": "archer-queen/02-precision-aim",
+      "prompt": "Use case: stylized-concept. Asset type: ONE individual premium transparent PNG chat sticker for Clanverse. Style: polished soft 3D mobile game-toy render, rounded sculpted forms, smooth restrained satin highlights, warm upper-left studio lighting, consistent premium character sticker art. Subject identity: Clash of Clans Archer Queen, an adult heroic woman: long violet-purple hair, small gold crown, forest-green sleeveless dress and cape, brown belt, large crossbow and confident regal facial features. Hero direction: proper regal battle-hero identity, dignified powerful pose, impressive proportions and serious confident presence. Not comedy, not baby/chibi, not a generic happy/sad/crying face. Specific action: A controlled dynamic aiming stance, crossbow lifted toward a distant off-canvas target, cloak flowing gently, sharp focused eyes; full crossbow and all body parts inside frame. Composition: one isolated character (the Hog Rider includes his own boar), compact full-body or three-quarter action, entire head, gear, wings and all key props fully visible inside the frame; centered square composition, subject fills about 82 percent, generous clear edge padding. Genuine transparent alpha background. Preserve character silhouette and readable face at 128px. No background, ground plane, scenery, card, frame, white sticker border, text, letters, captions, logos, watermark, unrelated extra characters, photo-realism, injury, blood or gore. Output exactly ONE sticker image, never a sheet, collage or grid."
+    },
+    {
+      "character": "archer-queen",
+      "characterName": "Archer Queen",
+      "category": "heroic",
+      "id": "queen-command",
+      "label": "Queen Command",
+      "number": 3,
+      "file": "archer-queen/03-queen-command",
+      "prompt": "Use case: stylized-concept. Asset type: ONE individual premium transparent PNG chat sticker for Clanverse. Style: polished soft 3D mobile game-toy render, rounded sculpted forms, smooth restrained satin highlights, warm upper-left studio lighting, consistent premium character sticker art. Subject identity: Clash of Clans Archer Queen, an adult heroic woman: long violet-purple hair, small gold crown, forest-green sleeveless dress and cape, brown belt, large crossbow and confident regal facial features. Hero direction: proper regal battle-hero identity, dignified powerful pose, impressive proportions and serious confident presence. Not comedy, not baby/chibi, not a generic happy/sad/crying face. Specific action: Crossbow held safely at her side while her other arm points decisively forward to command the clan, balanced powerful stance and composed queenly expression. Composition: one isolated character (the Hog Rider includes his own boar), compact full-body or three-quarter action, entire head, gear, wings and all key props fully visible inside the frame; centered square composition, subject fills about 82 percent, generous clear edge padding. Genuine transparent alpha background. Preserve character silhouette and readable face at 128px. No background, ground plane, scenery, card, frame, white sticker border, text, letters, captions, logos, watermark, unrelated extra characters, photo-realism, injury, blood or gore. Output exactly ONE sticker image, never a sheet, collage or grid."
+    },
+    {
+      "character": "grand-warden",
+      "characterName": "Grand Warden",
+      "category": "heroic",
+      "id": "arcane-guardian",
+      "label": "Arcane Guardian",
+      "number": 1,
+      "file": "grand-warden/01-arcane-guardian",
+      "prompt": "Use case: stylized-concept. Asset type: ONE individual premium transparent PNG chat sticker for Clanverse. Style: polished soft 3D mobile game-toy render, rounded sculpted forms, smooth restrained satin highlights, warm upper-left studio lighting, consistent premium character sticker art. Subject identity: Clash of Clans Grand Warden: elderly male mage, long white beard and white hair, dignified face, purple hooded robe with golden trim, golden belt, tall wooden/gold staff with glowing pink-purple crystal and a brown magic book. Hero direction: proper regal battle-hero identity, dignified powerful pose, impressive proportions and serious confident presence. Not comedy, not baby/chibi, not a generic happy/sad/crying face. Specific action: Floating a little above nothing with his staff upright and open spellbook hovering near his free hand, calm wise gaze; compact purple magical wisps close around the feet, no ground. Composition: one isolated character (the Hog Rider includes his own boar), compact full-body or three-quarter action, entire head, gear, wings and all key props fully visible inside the frame; centered square composition, subject fills about 82 percent, generous clear edge padding. Genuine transparent alpha background. Preserve character silhouette and readable face at 128px. No background, ground plane, scenery, card, frame, white sticker border, text, letters, captions, logos, watermark, unrelated extra characters, photo-realism, injury, blood or gore. Output exactly ONE sticker image, never a sheet, collage or grid."
+    },
+    {
+      "character": "grand-warden",
+      "characterName": "Grand Warden",
+      "category": "heroic",
+      "id": "eternal-aura",
+      "label": "Eternal Aura",
+      "number": 2,
+      "file": "grand-warden/02-eternal-aura",
+      "prompt": "Use case: stylized-concept. Asset type: ONE individual premium transparent PNG chat sticker for Clanverse. Style: polished soft 3D mobile game-toy render, rounded sculpted forms, smooth restrained satin highlights, warm upper-left studio lighting, consistent premium character sticker art. Subject identity: Clash of Clans Grand Warden: elderly male mage, long white beard and white hair, dignified face, purple hooded robe with golden trim, golden belt, tall wooden/gold staff with glowing pink-purple crystal and a brown magic book. Hero direction: proper regal battle-hero identity, dignified powerful pose, impressive proportions and serious confident presence. Not comedy, not baby/chibi, not a generic happy/sad/crying face. Specific action: Extending his free palm protectively while holding the crystal staff in his other hand; a small controlled curved golden magic arc hugs his silhouette, serene powerful expression. Composition: one isolated character (the Hog Rider includes his own boar), compact full-body or three-quarter action, entire head, gear, wings and all key props fully visible inside the frame; centered square composition, subject fills about 82 percent, generous clear edge padding. Genuine transparent alpha background. Preserve character silhouette and readable face at 128px. No background, ground plane, scenery, card, frame, white sticker border, text, letters, captions, logos, watermark, unrelated extra characters, photo-realism, injury, blood or gore. Output exactly ONE sticker image, never a sheet, collage or grid.",
+      "revisionPrompt": "Use case: identity-preserve. Edit target: the attached Clanverse character sticker. Change ONLY composition/framing to fix a too-tight crop. Preserve the exact character identity, facial features, pose, proportions, colours, signature gear, polished soft 3D rendering and lighting. Keep the complete crystal staff, hand, aura, robe and boots visible. Make magical glow compact and fully contained; no bright fog or broad white halo. IMPORTANT: zoom out substantially; the ENTIRE silhouette including magic effects must fit inside the central 70 percent of a square canvas. Leave an obvious completely empty transparent margin of at least 15 percent on ALL FOUR edges, especially at top and bottom. Reconstruct any parts cut off by the previous canvas. No new props, no text, no logos, no watermark, no outline, no background or floor. Actual transparent alpha, never a drawn checkerboard. One individual sticker.",
+      "revisionPurpose": "Recover edge-clipped details and improve transparent framing"
+    },
+    {
+      "character": "grand-warden",
+      "characterName": "Grand Warden",
+      "category": "heroic",
+      "id": "staff-command",
+      "label": "Staff Command",
+      "number": 3,
+      "file": "grand-warden/03-staff-command",
+      "prompt": "Use case: stylized-concept. Asset type: ONE individual premium transparent PNG chat sticker for Clanverse. Style: polished soft 3D mobile game-toy render, rounded sculpted forms, smooth restrained satin highlights, warm upper-left studio lighting, consistent premium character sticker art. Subject identity: Clash of Clans Grand Warden: elderly male mage, long white beard and white hair, dignified face, purple hooded robe with golden trim, golden belt, tall wooden/gold staff with glowing pink-purple crystal and a brown magic book. Hero direction: proper regal battle-hero identity, dignified powerful pose, impressive proportions and serious confident presence. Not comedy, not baby/chibi, not a generic happy/sad/crying face. Specific action: Planting his stance midair and raising his crystal staff diagonally overhead, long beard and purple robes swept by magical wind, commanding focused gaze. Composition: one isolated character (the Hog Rider includes his own boar), compact full-body or three-quarter action, entire head, gear, wings and all key props fully visible inside the frame; centered square composition, subject fills about 82 percent, generous clear edge padding. Genuine transparent alpha background. Preserve character silhouette and readable face at 128px. No background, ground plane, scenery, card, frame, white sticker border, text, letters, captions, logos, watermark, unrelated extra characters, photo-realism, injury, blood or gore. Output exactly ONE sticker image, never a sheet, collage or grid."
+    },
+    {
+      "character": "royal-champion",
+      "characterName": "Royal Champion",
+      "category": "heroic",
+      "id": "shield-guardian",
+      "label": "Shield Guardian",
+      "number": 1,
+      "file": "royal-champion/01-shield-guardian",
+      "prompt": "Use case: stylized-concept. Asset type: ONE individual premium transparent PNG chat sticker for Clanverse. Style: polished soft 3D mobile game-toy render, rounded sculpted forms, smooth restrained satin highlights, warm upper-left studio lighting, consistent premium character sticker art. Subject identity: Clash of Clans Royal Champion: athletic dark-skinned adult woman with vivid blue hair, a gold headband/circlet, blue-and-gold warrior armour, brown belt and sandals, circular shield and long spear. Hero direction: proper regal battle-hero identity, dignified powerful pose, impressive proportions and serious confident presence. Not comedy, not baby/chibi, not a generic happy/sad/crying face. Specific action: Standing in a strong guardian pose with circular shield forward and spear upright beside her, chin lifted, courageous steady eyes. Composition: one isolated character (the Hog Rider includes his own boar), compact full-body or three-quarter action, entire head, gear, wings and all key props fully visible inside the frame; centered square composition, subject fills about 82 percent, generous clear edge padding. Genuine transparent alpha background. Preserve character silhouette and readable face at 128px. No background, ground plane, scenery, card, frame, white sticker border, text, letters, captions, logos, watermark, unrelated extra characters, photo-realism, injury, blood or gore. Output exactly ONE sticker image, never a sheet, collage or grid."
+    },
+    {
+      "character": "royal-champion",
+      "characterName": "Royal Champion",
+      "category": "heroic",
+      "id": "spear-leap",
+      "label": "Spear Leap",
+      "number": 2,
+      "file": "royal-champion/02-spear-leap",
+      "prompt": "Use case: stylized-concept. Asset type: ONE individual premium transparent PNG chat sticker for Clanverse. Style: polished soft 3D mobile game-toy render, rounded sculpted forms, smooth restrained satin highlights, warm upper-left studio lighting, consistent premium character sticker art. Subject identity: Clash of Clans Royal Champion: athletic dark-skinned adult woman with vivid blue hair, a gold headband/circlet, blue-and-gold warrior armour, brown belt and sandals, circular shield and long spear. Hero direction: proper regal battle-hero identity, dignified powerful pose, impressive proportions and serious confident presence. Not comedy, not baby/chibi, not a generic happy/sad/crying face. Specific action: A compact dynamic airborne spear-thrust pose toward an off-canvas target, shield tucked close to her side, complete spear tip and feet inside frame, focused heroic gaze. Composition: one isolated character (the Hog Rider includes his own boar), compact full-body or three-quarter action, entire head, gear, wings and all key props fully visible inside the frame; centered square composition, subject fills about 82 percent, generous clear edge padding. Genuine transparent alpha background. Preserve character silhouette and readable face at 128px. No background, ground plane, scenery, card, frame, white sticker border, text, letters, captions, logos, watermark, unrelated extra characters, photo-realism, injury, blood or gore. Output exactly ONE sticker image, never a sheet, collage or grid."
+    },
+    {
+      "character": "royal-champion",
+      "characterName": "Royal Champion",
+      "category": "heroic",
+      "id": "champion-salute",
+      "label": "Champion Salute",
+      "number": 3,
+      "file": "royal-champion/03-champion-salute",
+      "prompt": "Use case: stylized-concept. Asset type: ONE individual premium transparent PNG chat sticker for Clanverse. Style: polished soft 3D mobile game-toy render, rounded sculpted forms, smooth restrained satin highlights, warm upper-left studio lighting, consistent premium character sticker art. Subject identity: Clash of Clans Royal Champion: athletic dark-skinned adult woman with vivid blue hair, a gold headband/circlet, blue-and-gold warrior armour, brown belt and sandals, circular shield and long spear. Hero direction: proper regal battle-hero identity, dignified powerful pose, impressive proportions and serious confident presence. Not comedy, not baby/chibi, not a generic happy/sad/crying face. Specific action: Holding her round shield across her chest in a respectful warrior salute and spear angled upward behind her, proud poised expression. Composition: one isolated character (the Hog Rider includes his own boar), compact full-body or three-quarter action, entire head, gear, wings and all key props fully visible inside the frame; centered square composition, subject fills about 82 percent, generous clear edge padding. Genuine transparent alpha background. Preserve character silhouette and readable face at 128px. No background, ground plane, scenery, card, frame, white sticker border, text, letters, captions, logos, watermark, unrelated extra characters, photo-realism, injury, blood or gore. Output exactly ONE sticker image, never a sheet, collage or grid."
+    },
+    {
+      "character": "minion-prince",
+      "characterName": "Minion Prince",
+      "category": "heroic",
+      "id": "royal-hover",
+      "label": "Royal Hover",
+      "number": 1,
+      "file": "minion-prince/01-royal-hover",
+      "prompt": "Use case: stylized-concept. Asset type: ONE individual premium transparent PNG chat sticker for Clanverse. Style: polished soft 3D mobile game-toy render, rounded sculpted forms, smooth restrained satin highlights, warm upper-left studio lighting, consistent premium character sticker art. Subject identity: Clash of Clans Minion Prince: imposing royal blue-skinned winged minion hero, strong muscular torso, dark blue facial features, short dark horns, royal gold accents, purple membranous bat wings, clawed hands and feet; recognizable official base character rather than a human prince. Hero direction: proper regal battle-hero identity, dignified powerful pose, impressive proportions and serious confident presence. Not comedy, not baby/chibi, not a generic happy/sad/crying face. Specific action: Hovering with wings symmetrically spread and arms crossed over his chest, chin raised in a proud royal pose, confident composed eyes, compact silhouette. Composition: one isolated character (the Hog Rider includes his own boar), compact full-body or three-quarter action, entire head, gear, wings and all key props fully visible inside the frame; centered square composition, subject fills about 82 percent, generous clear edge padding. Genuine transparent alpha background. Preserve character silhouette and readable face at 128px. No background, ground plane, scenery, card, frame, white sticker border, text, letters, captions, logos, watermark, unrelated extra characters, photo-realism, injury, blood or gore. Output exactly ONE sticker image, never a sheet, collage or grid."
+    },
+    {
+      "character": "minion-prince",
+      "characterName": "Minion Prince",
+      "category": "heroic",
+      "id": "dark-orb",
+      "label": "Dark Orb",
+      "number": 2,
+      "file": "minion-prince/02-dark-orb",
+      "prompt": "Use case: stylized-concept. Asset type: ONE individual premium transparent PNG chat sticker for Clanverse. Style: polished soft 3D mobile game-toy render, rounded sculpted forms, smooth restrained satin highlights, warm upper-left studio lighting, consistent premium character sticker art. Subject identity: Clash of Clans Minion Prince: imposing royal blue-skinned winged minion hero, strong muscular torso, dark blue facial features, short dark horns, royal gold accents, purple membranous bat wings, clawed hands and feet; recognizable official base character rather than a human prince. Hero direction: proper regal battle-hero identity, dignified powerful pose, impressive proportions and serious confident presence. Not comedy, not baby/chibi, not a generic happy/sad/crying face. Specific action: Holding one vivid purple dark-magic orb between his clawed hands, wings curved behind him, cool concentrated gaze; subtle purple light reflects on his blue face. Composition: one isolated character (the Hog Rider includes his own boar), compact full-body or three-quarter action, entire head, gear, wings and all key props fully visible inside the frame; centered square composition, subject fills about 82 percent, generous clear edge padding. Genuine transparent alpha background. Preserve character silhouette and readable face at 128px. No background, ground plane, scenery, card, frame, white sticker border, text, letters, captions, logos, watermark, unrelated extra characters, photo-realism, injury, blood or gore. Output exactly ONE sticker image, never a sheet, collage or grid."
+    },
+    {
+      "character": "minion-prince",
+      "characterName": "Minion Prince",
+      "category": "heroic",
+      "id": "sky-command",
+      "label": "Sky Command",
+      "number": 3,
+      "file": "minion-prince/03-sky-command",
+      "prompt": "Use case: stylized-concept. Asset type: ONE individual premium transparent PNG chat sticker for Clanverse. Style: polished soft 3D mobile game-toy render, rounded sculpted forms, smooth restrained satin highlights, warm upper-left studio lighting, consistent premium character sticker art. Subject identity: Clash of Clans Minion Prince: imposing royal blue-skinned winged minion hero, strong muscular torso, dark blue facial features, short dark horns, royal gold accents, purple membranous bat wings, clawed hands and feet; recognizable official base character rather than a human prince. Hero direction: proper regal battle-hero identity, dignified powerful pose, impressive proportions and serious confident presence. Not comedy, not baby/chibi, not a generic happy/sad/crying face. Specific action: A powerful forward-flight pose with one clawed arm pointing forward in command and wings swept back, regal determination; horns, wings and claws all fully framed. Composition: one isolated character (the Hog Rider includes his own boar), compact full-body or three-quarter action, entire head, gear, wings and all key props fully visible inside the frame; centered square composition, subject fills about 82 percent, generous clear edge padding. Genuine transparent alpha background. Preserve character silhouette and readable face at 128px. No background, ground plane, scenery, card, frame, white sticker border, text, letters, captions, logos, watermark, unrelated extra characters, photo-realism, injury, blood or gore. Output exactly ONE sticker image, never a sheet, collage or grid."
+    },
+    {
+      "character": "dragon-duke",
+      "characterName": "Dragon Duke",
+      "category": "heroic",
+      "id": "duke-unleashed",
+      "label": "Duke Unleashed",
+      "number": 1,
+      "file": "dragon-duke/01-duke-unleashed",
+      "prompt": "Use case: stylized-concept. Asset type: ONE individual premium transparent PNG chat sticker for Clanverse. Style: polished soft 3D mobile game-toy render, rounded sculpted forms, smooth restrained satin highlights, warm upper-left studio lighting, consistent premium character sticker art. Subject identity: Clash of Clans Dragon Duke hero: muscular red dragon with ivory underbelly, golden horns, broad leathery red wings, strong clawed limbs, thick blue-grey chains and a large padlock hanging across his chest; distinctly a red royal hero, not the ordinary purple Dragon troop. Hero direction: proper regal battle-hero identity, dignified powerful pose, impressive proportions and serious confident presence. Not comedy, not baby/chibi, not a generic happy/sad/crying face. Specific action: Hovering in a powerful frontal stance with wings spread, broad chest lifted, gold horns and chain details clear, commanding fierce gaze; no scenery or dungeon. Composition: one isolated character (the Hog Rider includes his own boar), compact full-body or three-quarter action, entire head, gear, wings and all key props fully visible inside the frame; centered square composition, subject fills about 82 percent, generous clear edge padding. Genuine transparent alpha background. Preserve character silhouette and readable face at 128px. No background, ground plane, scenery, card, frame, white sticker border, text, letters, captions, logos, watermark, unrelated extra characters, photo-realism, injury, blood or gore. Output exactly ONE sticker image, never a sheet, collage or grid.",
+      "revisionPrompt": "Use case: identity-preserve. Edit target: the attached Clanverse character sticker. Change ONLY composition/framing to fix a too-tight crop. Preserve the exact character identity, facial features, pose, proportions, colours, signature gear, polished soft 3D rendering and lighting. Keep all wing tips, golden horns, tail and claws fully visible. Curve the wings slightly inward if needed so the whole wing span fits comfortably. IMPORTANT: zoom out substantially; the ENTIRE silhouette including magic effects must fit inside the central 70 percent of a square canvas. Leave an obvious completely empty transparent margin of at least 15 percent on ALL FOUR edges, especially at top and bottom. Reconstruct any parts cut off by the previous canvas. No new props, no text, no logos, no watermark, no outline, no background or floor. Actual transparent alpha, never a drawn checkerboard. One individual sticker.",
+      "revisionPurpose": "Recover edge-clipped details and improve transparent framing"
+    },
+    {
+      "character": "dragon-duke",
+      "characterName": "Dragon Duke",
+      "category": "heroic",
+      "id": "royal-rampage",
+      "label": "Royal Rampage",
+      "number": 2,
+      "file": "dragon-duke/02-royal-rampage",
+      "prompt": "Use case: stylized-concept. Asset type: ONE individual premium transparent PNG chat sticker for Clanverse. Style: polished soft 3D mobile game-toy render, rounded sculpted forms, smooth restrained satin highlights, warm upper-left studio lighting, consistent premium character sticker art. Subject identity: Clash of Clans Dragon Duke hero: muscular red dragon with ivory underbelly, golden horns, broad leathery red wings, strong clawed limbs, thick blue-grey chains and a large padlock hanging across his chest; distinctly a red royal hero, not the ordinary purple Dragon troop. Hero direction: proper regal battle-hero identity, dignified powerful pose, impressive proportions and serious confident presence. Not comedy, not baby/chibi, not a generic happy/sad/crying face. Specific action: Dynamic diagonal flight with claws extended and wings swept backward, a few tiny orange ember accents very close to the mouth, focused heroic aggression without injury. Composition: one isolated character (the Hog Rider includes his own boar), compact full-body or three-quarter action, entire head, gear, wings and all key props fully visible inside the frame; centered square composition, subject fills about 82 percent, generous clear edge padding. Genuine transparent alpha background. Preserve character silhouette and readable face at 128px. No background, ground plane, scenery, card, frame, white sticker border, text, letters, captions, logos, watermark, unrelated extra characters, photo-realism, injury, blood or gore. Output exactly ONE sticker image, never a sheet, collage or grid."
+    },
+    {
+      "character": "dragon-duke",
+      "characterName": "Dragon Duke",
+      "category": "heroic",
+      "id": "flame-sovereign",
+      "label": "Flame Sovereign",
+      "number": 3,
+      "file": "dragon-duke/03-flame-sovereign",
+      "prompt": "Use case: stylized-concept. Asset type: ONE individual premium transparent PNG chat sticker for Clanverse. Style: polished soft 3D mobile game-toy render, rounded sculpted forms, smooth restrained satin highlights, warm upper-left studio lighting, consistent premium character sticker art. Subject identity: Clash of Clans Dragon Duke hero: muscular red dragon with ivory underbelly, golden horns, broad leathery red wings, strong clawed limbs, thick blue-grey chains and a large padlock hanging across his chest; distinctly a red royal hero, not the ordinary purple Dragon troop. Hero direction: proper regal battle-hero identity, dignified powerful pose, impressive proportions and serious confident presence. Not comedy, not baby/chibi, not a generic happy/sad/crying face. Specific action: Regal three-quarter pose, one foreclaw clenched near his padlock and the other held forward, small controlled curl of flame at the snout, commanding royal expression. Composition: one isolated character (the Hog Rider includes his own boar), compact full-body or three-quarter action, entire head, gear, wings and all key props fully visible inside the frame; centered square composition, subject fills about 82 percent, generous clear edge padding. Genuine transparent alpha background. Preserve character silhouette and readable face at 128px. No background, ground plane, scenery, card, frame, white sticker border, text, letters, captions, logos, watermark, unrelated extra characters, photo-realism, injury, blood or gore. Output exactly ONE sticker image, never a sheet, collage or grid."
+    }
+  ],
+  "total": 30,
+  "categories": {
+    "comedy": 12,
+    "heroic": 18
+  },
+  "exportSizes": [
+    128,
+    512
+  ]
+}

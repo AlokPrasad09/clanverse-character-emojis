@@ -1,0 +1,50 @@
+{
+  "id": "archer-queen",
+  "name": "Archer Queen",
+  "category": "heroic",
+  "dir": "archer-queen",
+  "format": "png",
+  "thumbSuffix": "-128.png",
+  "fullSuffix": "-512.png",
+  "items": [
+    {
+      "id": "royal-crossbow",
+      "file": "01-royal-crossbow",
+      "name": "Archer Queen — Royal Crossbow",
+      "fallback": "⚔️",
+      "keywords": [
+        "archer-queen",
+        "heroic",
+        "royal",
+        "crossbow"
+      ],
+      "alias": ":archer_queen_royal_crossbow:"
+    },
+    {
+      "id": "precision-aim",
+      "file": "02-precision-aim",
+      "name": "Archer Queen — Precision Aim",
+      "fallback": "⚔️",
+      "keywords": [
+        "archer-queen",
+        "heroic",
+        "precision",
+        "aim"
+      ],
+      "alias": ":archer_queen_precision_aim:"
+    },
+    {
+      "id": "queen-command",
+      "file": "03-queen-command",
+      "name": "Archer Queen — Queen Command",
+      "fallback": "⚔️",
+      "keywords": [
+        "archer-queen",
+        "heroic",
+        "queen",
+        "command"
+      ],
+      "alias": ":archer_queen_queen_command:"
+    }
+  ]
+}

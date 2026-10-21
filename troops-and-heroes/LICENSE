@@ -1,0 +1,121 @@
+CLANVERSE CHARACTER EMOJIS AND TOOLS
+Unified license notice — scope-based dual-license structure
+Copyright (c) 2026 Alok Prasad, to the extent copyright subsists in the
+contributor's original contributions. Supercell retains its own rights.
+
+SCOPE
+=====
+This file applies to the contents of the clanverse-character-emojis directory,
+including copies distributed in the pack ZIP. It does not relicense the parent
+Clanverse application or unrelated repository files.
+
+The two licenses below apply to different material. They are NOT alternative
+licenses from which a recipient may choose for the same material.
+
+1. MIT applies strictly to the project-authored Python engineering tools
+   (*.py files), including export-pack.py, package-pack.py, read-catalog.py,
+   add_watermark.py, validate-pack.py, and test_tools.py.
+2. CC BY-NC 4.0 applies to the contributor-owned graphic assets and supporting
+   non-Python material in this directory: the complete archer/ and barbarian/
+   directories; all PNGs, original master images, SVGs and embedded artwork;
+   previews and progress boards; and project-authored documentation, JSON
+   metadata, and configuration text. A directory's asset scope does not change
+   the MIT scope of any project-authored Python tool it may contain.
+3. A mixed archive retains these per-file terms. An MIT-licensed tool does not
+   confer MIT rights on the artwork it reads, creates, exports, or packages.
+   Third-party dependencies retain their own licenses and are not relicensed.
+
+PART I — PYTHON ENGINEERING TOOLS: MIT LICENSE
+============================================
+Copyright (c) 2026 Alok Prasad
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+PART II — GRAPHICS AND SUPPORTING CONTENT: CC BY-NC 4.0
+=====================================================
+Creative Commons Attribution-NonCommercial 4.0 International
+SPDX identifier: CC-BY-NC-4.0
+
+To the extent the contributor owns Copyright and Similar Rights and has the
+authority to license them, the material identified in Scope item 2 is licensed
+under the unmodified Creative Commons Attribution-NonCommercial 4.0
+International Public License. The complete official legal code is incorporated
+by reference and governs this grant:
+
+https://creativecommons.org/licenses/by-nc/4.0/legalcode.en
+
+Human-readable overview (not a substitute for the legal code):
+https://creativecommons.org/licenses/by-nc/4.0/
+
+Under that public license, recipients may reproduce, share, and adapt the
+Licensed Material for NonCommercial purposes, subject to its conditions.
+NonCommercial means not primarily intended for or directed towards commercial
+advantage or monetary compensation, as defined in the official legal code.
+
+When sharing, retain supplied creator identification, copyright notices,
+license and warranty notices, and a source URI where reasonably practicable;
+identify modifications and retain indications of previous modifications;
+and include the public license text or its URI. Attribution can be supplied
+in a reasonable manner appropriate to the medium and context, such as a
+credits screen or accompanying documentation. A visual overlay on each raw
+asset is not required. The preview's promotional tag is not full attribution.
+
+Suggested credit (replace bracketed fields):
+Clanverse Character Emojis by Alok Prasad — CC BY-NC 4.0.
+Source: [repository or release URL used]. Changes: [describe, or "none"].
+https://creativecommons.org/licenses/by-nc/4.0/
+Unofficial Clash of Clans fan content; Supercell retains its character rights.
+
+This explanation does not modify the Creative Commons license or impose
+additional downstream restrictions. The license's exceptions and limitations,
+no-endorsement provision, exclusions of trademark and other rights, disclaimer
+of warranties, limitation of liability, and termination/reinstatement terms
+remain those of the official legal code. Licensed Material is provided as-is
+and as-available under its Section 5.
+
+PART III — THIRD-PARTY RIGHTS AND SUPERCELL FAN CONTENT NOTICE
+=============================================================
+Clash of Clans, Archer, Barbarian, and related game intellectual property are
+owned by Supercell. No ownership of Supercell's material is claimed here.
+Neither license grants rights in Supercell's copyrights or trademarks, or
+implies its endorsement. Only rights the contributor owns and is authorized
+to license are offered. AI generation does not remove third-party rights;
+copyright protection of generated contributions may vary by jurisdiction.
+
+Supercell's Fan Content Policy independently governs use of its intellectual
+property. It includes restrictions on modifying Supercell Assets and creating
+new character-based content without permission. This repository does not
+establish that the sticker adaptations or any proposed app distribution have
+the permission required by Supercell. Obtain or verify that permission where
+required before publishing. A disclaimer does not authorize prohibited uses.
+Any policy exception for monetization does not enlarge the rights granted by
+CC BY-NC 4.0 in the contributor's material. These are third-party-rights
+notices, not amendments to either license above.
+
+Required notice, reproduced as requested:
+"This content is not affiliated with, endorsed, sponsored, or specifically
+approved by Supercell and Supercell is not responsible for it. For more
+information see Supercell’s Fan Content Policy: ://supercell.com."
+
+The address in that requested wording is malformed. The working policy URL is:
+https://supercell.com/en/fan-content-policy/
+
+Display the unofficiality notice in a form legible to end users alongside
+the fan content, such as the app's credits or information screen. Retaining
+this file alone does not establish compliance of an entire app or publication.

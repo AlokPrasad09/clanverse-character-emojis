@@ -1,0 +1,575 @@
+{
+  "count": 30,
+  "assets": [
+    {
+      "character": "dragon",
+      "id": "tiny-fire-sneeze",
+      "master": "dragon/01-tiny-fire-sneeze-master.png",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "masterSHA256": "cbef5cc04c5a73f015e38198021d45dab8b9394bb6fac81865669296812b1928",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ],
+      "contentFraction": 0.88
+    },
+    {
+      "character": "dragon",
+      "id": "marshmallow-chef",
+      "master": "dragon/02-marshmallow-chef-master.png",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "masterSHA256": "610b5b486754a60010c7330105e9c7d01b1fcdce775c460de0d2257c16de33a8",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ],
+      "contentFraction": 0.88
+    },
+    {
+      "character": "dragon",
+      "id": "upside-down-hover",
+      "master": "dragon/03-upside-down-hover-master.png",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "masterSHA256": "6d6f28df9e43d990fc5756c3218a39b88d998733415bded20bfcd88cbe98ddb8",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ],
+      "contentFraction": 0.88
+    },
+    {
+      "character": "wizard",
+      "id": "rabbit-misfire",
+      "master": "wizard/01-rabbit-misfire-master.png",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "masterSHA256": "058fecc2c9e60f8c769efe18d420c10e692491f968ec900818b86f4a663ea104",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ],
+      "contentFraction": 0.88
+    },
+    {
+      "character": "wizard",
+      "id": "mustache-magic",
+      "master": "wizard/02-mustache-magic-master.png",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "masterSHA256": "54ec1ba03b776968aa64c6b84d9f146e07c7bbc403573665c3bf278f7503a55c",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ],
+      "contentFraction": 0.88
+    },
+    {
+      "character": "wizard",
+      "id": "tiny-fireball",
+      "master": "wizard/03-tiny-fireball-master.png",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "masterSHA256": "7703b710053b565d6dc4b439d6f76090f24353b04c03ce566cd5f841f6dc220d",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ],
+      "contentFraction": 0.88
+    },
+    {
+      "character": "hog-rider",
+      "id": "hog-wheelie",
+      "master": "hog-rider/01-hog-wheelie-master.png",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "masterSHA256": "01f1a902476ee6f8a0b4e9ef3725076a2274f2fca6ca0fe10faa40190443edf9",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ],
+      "contentFraction": 0.88
+    },
+    {
+      "character": "hog-rider",
+      "id": "snack-break",
+      "master": "hog-rider/02-snack-break-master.png",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "masterSHA256": "8bd1ea3a0e5985d344ab5ccef0615dc8fbc5b5dea03fb40d0f681434ca7185cc",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ],
+      "contentFraction": 0.88
+    },
+    {
+      "character": "hog-rider",
+      "id": "wrong-way",
+      "master": "hog-rider/03-wrong-way-master.png",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "masterSHA256": "2d264ec22a3fbb769e8db1d1541de3eb1b02d749e1815ce09cc7448a4bbbddb1",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ],
+      "contentFraction": 0.88
+    },
+    {
+      "character": "bowler",
+      "id": "boulder-cuddle",
+      "master": "bowler/01-boulder-cuddle-master.png",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "masterSHA256": "a81cfdc44fb3e8896cb84d43c98aedc6cb23f1988431e5b8497602bedc586819",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ],
+      "contentFraction": 0.88
+    },
+    {
+      "character": "bowler",
+      "id": "rock-balancer",
+      "master": "bowler/02-rock-balancer-master.png",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "masterSHA256": "befb8ce92cfbe0980f602add7e94ad4a48c9715e09ff7c8ffe131271aef48712",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ],
+      "contentFraction": 0.88
+    },
+    {
+      "character": "bowler",
+      "id": "bowling-showoff",
+      "master": "bowler/03-bowling-showoff-v2-master.png",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "masterSHA256": "154673a61b230422a4b8b109d0c8799d8df8fcb3498fabed47abd862d327f437",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ],
+      "contentFraction": 0.88
+    },
+    {
+      "character": "barbarian-king",
+      "id": "royal-stance",
+      "master": "barbarian-king/01-royal-stance-master.png",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "masterSHA256": "0e7c53058a11bae035ccb79f1491dbf0bdedb0a6c22abba7acc9b29fc6d17ab6",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ],
+      "contentFraction": 0.88
+    },
+    {
+      "character": "barbarian-king",
+      "id": "sword-charge",
+      "master": "barbarian-king/02-sword-charge-master.png",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "masterSHA256": "bab53bc567e28a6a7df43ca79347a090bc27ebab76852b2aa53496683d27b71d",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ],
+      "contentFraction": 0.88
+    },
+    {
+      "character": "barbarian-king",
+      "id": "victory-salute",
+      "master": "barbarian-king/03-victory-salute-master.png",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "masterSHA256": "92e583cb61f7a434c611fe41d796b1878ccbde3fae53ea9e0ab4ee35ab29cca5",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ],
+      "contentFraction": 0.88
+    },
+    {
+      "character": "archer-queen",
+      "id": "royal-crossbow",
+      "master": "archer-queen/01-royal-crossbow-master.png",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "masterSHA256": "b6af4c22e8ac5b524e0c44c40f6d92c3f68c730cd255bca153ab6ccb77d9d428",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ],
+      "contentFraction": 0.88
+    },
+    {
+      "character": "archer-queen",
+      "id": "precision-aim",
+      "master": "archer-queen/02-precision-aim-master.png",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "masterSHA256": "ab96477f6642938cf3977d8d54b8a9f321920630117a25b2355901825c9dc078",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ],
+      "contentFraction": 0.88
+    },
+    {
+      "character": "archer-queen",
+      "id": "queen-command",
+      "master": "archer-queen/03-queen-command-master.png",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "masterSHA256": "fbf0a54b921482aed4a7b2ae615c0c4598d178886b1b73804b9041b85c54870e",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ],
+      "contentFraction": 0.88
+    },
+    {
+      "character": "grand-warden",
+      "id": "arcane-guardian",
+      "master": "grand-warden/01-arcane-guardian-master.png",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "masterSHA256": "ab153a23b5f1461ee0003a5c926311335da466d11b9793ac7681ebb7349bf666",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ],
+      "contentFraction": 0.88
+    },
+    {
+      "character": "grand-warden",
+      "id": "eternal-aura",
+      "master": "grand-warden/02-eternal-aura-master.png",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "masterSHA256": "321d4e946f58d25f318614a01816fa0e1c711539bb1295c4b6443233b8a19843",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ],
+      "contentFraction": 0.88
+    },
+    {
+      "character": "grand-warden",
+      "id": "staff-command",
+      "master": "grand-warden/03-staff-command-master.png",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "masterSHA256": "92e138b94e7a15183bc6b8aace5caca21da5b80c260b0beaf2416aa809b793c9",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ],
+      "contentFraction": 0.88
+    },
+    {
+      "character": "royal-champion",
+      "id": "shield-guardian",
+      "master": "royal-champion/01-shield-guardian-master.png",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "masterSHA256": "858fddd63e5b738f3acff7d123e69cd4956ec3efd94b07b56f177315b7daa82c",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ],
+      "contentFraction": 0.88
+    },
+    {
+      "character": "royal-champion",
+      "id": "spear-leap",
+      "master": "royal-champion/02-spear-leap-master.png",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "masterSHA256": "4267e8b5a3b86848629c079bbbe151ce134a58d08deb365bb46fa179464d3475",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ],
+      "contentFraction": 0.88
+    },
+    {
+      "character": "royal-champion",
+      "id": "champion-salute",
+      "master": "royal-champion/03-champion-salute-master.png",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "masterSHA256": "d60e792a0f0bc8f762131598884c8148a161ff36c3958494743cf0a54d39a0dc",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ],
+      "contentFraction": 0.88
+    },
+    {
+      "character": "minion-prince",
+      "id": "royal-hover",
+      "master": "minion-prince/01-royal-hover-master.png",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "masterSHA256": "c9d354ef5fdcd4cfe79ddf6c1d082df75390be2c4565741604b8ea60b4fbd0d0",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ],
+      "contentFraction": 0.88
+    },
+    {
+      "character": "minion-prince",
+      "id": "dark-orb",
+      "master": "minion-prince/02-dark-orb-master.png",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "masterSHA256": "a432c1ea25dc1e09baaa473a094eae67cc09cffa82493d3253f502bfbddc1ffb",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ],
+      "contentFraction": 0.88
+    },
+    {
+      "character": "minion-prince",
+      "id": "sky-command",
+      "master": "minion-prince/03-sky-command-master.png",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "masterSHA256": "388a42d0d160ae2de5939a161113f62d74f6f08f4c81fabfccaa32d843d8c175",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ],
+      "contentFraction": 0.88
+    },
+    {
+      "character": "dragon-duke",
+      "id": "duke-unleashed",
+      "master": "dragon-duke/01-duke-unleashed-master.png",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "masterSHA256": "8680882736e6a62b5b1b9ec047c83c68974b47bb9e6ee16318cd16d16dd5844d",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ],
+      "contentFraction": 0.88
+    },
+    {
+      "character": "dragon-duke",
+      "id": "royal-rampage",
+      "master": "dragon-duke/02-royal-rampage-master.png",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "masterSHA256": "bd97daa969f0803ca73ee3275a2cef4f6b81aaa60877d0e1304ff9109d8558f0",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ],
+      "contentFraction": 0.88
+    },
+    {
+      "character": "dragon-duke",
+      "id": "flame-sovereign",
+      "master": "dragon-duke/03-flame-sovereign-master.png",
+      "masterSize": [
+        1254,
+        1254
+      ],
+      "masterSHA256": "b9a60e2c9823de60249d037f774a26b8bb7041e2e287702cfd7ab56ac8dd3add",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "exports": [
+        128,
+        512
+      ],
+      "contentFraction": 0.88
+    }
+  ]
+}

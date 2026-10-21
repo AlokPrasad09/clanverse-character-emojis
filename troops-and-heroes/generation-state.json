@@ -1,0 +1,42 @@
+{
+  "status": "complete",
+  "generationMode": "built-in image_gen",
+  "stickers": 30,
+  "characters": 10,
+  "categories": {
+    "comedy": 12,
+    "heroic": 18
+  },
+  "masters": [
+    "dragon/01-tiny-fire-sneeze-master.png",
+    "dragon/02-marshmallow-chef-master.png",
+    "dragon/03-upside-down-hover-master.png",
+    "wizard/01-rabbit-misfire-master.png",
+    "wizard/02-mustache-magic-master.png",
+    "wizard/03-tiny-fireball-master.png",
+    "hog-rider/01-hog-wheelie-master.png",
+    "hog-rider/02-snack-break-master.png",
+    "hog-rider/03-wrong-way-master.png",
+    "bowler/01-boulder-cuddle-master.png",
+    "bowler/02-rock-balancer-master.png",
+    "bowler/03-bowling-showoff-v2-master.png",
+    "barbarian-king/01-royal-stance-master.png",
+    "barbarian-king/02-sword-charge-master.png",
+    "barbarian-king/03-victory-salute-master.png",
+    "archer-queen/01-royal-crossbow-master.png",
+    "archer-queen/02-precision-aim-master.png",
+    "archer-queen/03-queen-command-master.png",
+    "grand-warden/01-arcane-guardian-master.png",
+    "grand-warden/02-eternal-aura-master.png",
+    "grand-warden/03-staff-command-master.png",
+    "royal-champion/01-shield-guardian-master.png",
+    "royal-champion/02-spear-leap-master.png",
+    "royal-champion/03-champion-salute-master.png",
+    "minion-prince/01-royal-hover-master.png",
+    "minion-prince/02-dark-orb-master.png",
+    "minion-prince/03-sky-command-master.png",
+    "dragon-duke/01-duke-unleashed-master.png",
+    "dragon-duke/02-royal-rampage-master.png",
+    "dragon-duke/03-flame-sovereign-master.png"
+  ]
+}

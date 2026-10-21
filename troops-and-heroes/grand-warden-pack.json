@@ -1,0 +1,50 @@
+{
+  "id": "grand-warden",
+  "name": "Grand Warden",
+  "category": "heroic",
+  "dir": "grand-warden",
+  "format": "png",
+  "thumbSuffix": "-128.png",
+  "fullSuffix": "-512.png",
+  "items": [
+    {
+      "id": "arcane-guardian",
+      "file": "01-arcane-guardian",
+      "name": "Grand Warden — Arcane Guardian",
+      "fallback": "⚔️",
+      "keywords": [
+        "grand-warden",
+        "heroic",
+        "arcane",
+        "guardian"
+      ],
+      "alias": ":grand_warden_arcane_guardian:"
+    },
+    {
+      "id": "eternal-aura",
+      "file": "02-eternal-aura",
+      "name": "Grand Warden — Eternal Aura",
+      "fallback": "⚔️",
+      "keywords": [
+        "grand-warden",
+        "heroic",
+        "eternal",
+        "aura"
+      ],
+      "alias": ":grand_warden_eternal_aura:"
+    },
+    {
+      "id": "staff-command",
+      "file": "03-staff-command",
+      "name": "Grand Warden — Staff Command",
+      "fallback": "⚔️",
+      "keywords": [
+        "grand-warden",
+        "heroic",
+        "staff",
+        "command"
+      ],
+      "alias": ":grand_warden_staff_command:"
+    }
+  ]
+}

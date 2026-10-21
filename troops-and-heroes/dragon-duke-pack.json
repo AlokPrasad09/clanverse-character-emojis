@@ -1,0 +1,50 @@
+{
+  "id": "dragon-duke",
+  "name": "Dragon Duke",
+  "category": "heroic",
+  "dir": "dragon-duke",
+  "format": "png",
+  "thumbSuffix": "-128.png",
+  "fullSuffix": "-512.png",
+  "items": [
+    {
+      "id": "duke-unleashed",
+      "file": "01-duke-unleashed",
+      "name": "Dragon Duke — Duke Unleashed",
+      "fallback": "⚔️",
+      "keywords": [
+        "dragon-duke",
+        "heroic",
+        "duke",
+        "unleashed"
+      ],
+      "alias": ":dragon_duke_duke_unleashed:"
+    },
+    {
+      "id": "royal-rampage",
+      "file": "02-royal-rampage",
+      "name": "Dragon Duke — Royal Rampage",
+      "fallback": "⚔️",
+      "keywords": [
+        "dragon-duke",
+        "heroic",
+        "royal",
+        "rampage"
+      ],
+      "alias": ":dragon_duke_royal_rampage:"
+    },
+    {
+      "id": "flame-sovereign",
+      "file": "03-flame-sovereign",
+      "name": "Dragon Duke — Flame Sovereign",
+      "fallback": "⚔️",
+      "keywords": [
+        "dragon-duke",
+        "heroic",
+        "flame",
+        "sovereign"
+      ],
+      "alias": ":dragon_duke_flame_sovereign:"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "bowler",
+  "name": "Bowler",
+  "category": "comedy",
+  "dir": "bowler",
+  "format": "png",
+  "thumbSuffix": "-128.png",
+  "fullSuffix": "-512.png",
+  "items": [
+    {
+      "id": "boulder-cuddle",
+      "file": "01-boulder-cuddle",
+      "name": "Bowler — Boulder Cuddle",
+      "fallback": "😆",
+      "keywords": [
+        "bowler",
+        "comedy",
+        "boulder",
+        "cuddle"
+      ],
+      "alias": ":bowler_boulder_cuddle:"
+    },
+    {
+      "id": "rock-balancer",
+      "file": "02-rock-balancer",
+      "name": "Bowler — Rock Balancer",
+      "fallback": "😆",
+      "keywords": [
+        "bowler",
+        "comedy",
+        "rock",
+        "balancer"
+      ],
+      "alias": ":bowler_rock_balancer:"
+    },
+    {
+      "id": "bowling-showoff",
+      "file": "03-bowling-showoff-v2",
+      "name": "Bowler — Bowling Showoff",
+      "fallback": "😆",
+      "keywords": [
+        "bowler",
+        "comedy",
+        "bowling",
+        "showoff"
+      ],
+      "alias": ":bowler_bowling_showoff:",
+      "legacyFiles": [
+        "03-bowling-showoff"
+      ]
+    }
+  ]
+}

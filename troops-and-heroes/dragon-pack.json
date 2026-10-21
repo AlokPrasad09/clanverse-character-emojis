@@ -1,0 +1,52 @@
+{
+  "id": "dragon",
+  "name": "Dragon",
+  "category": "comedy",
+  "dir": "dragon",
+  "format": "png",
+  "thumbSuffix": "-128.png",
+  "fullSuffix": "-512.png",
+  "items": [
+    {
+      "id": "tiny-fire-sneeze",
+      "file": "01-tiny-fire-sneeze",
+      "name": "Dragon — Tiny Fire Sneeze",
+      "fallback": "😆",
+      "keywords": [
+        "dragon",
+        "comedy",
+        "tiny",
+        "fire",
+        "sneeze"
+      ],
+      "alias": ":dragon_tiny_fire_sneeze:"
+    },
+    {
+      "id": "marshmallow-chef",
+      "file": "02-marshmallow-chef",
+      "name": "Dragon — Marshmallow Chef",
+      "fallback": "😆",
+      "keywords": [
+        "dragon",
+        "comedy",
+        "marshmallow",
+        "chef"
+      ],
+      "alias": ":dragon_marshmallow_chef:"
+    },
+    {
+      "id": "upside-down-hover",
+      "file": "03-upside-down-hover",
+      "name": "Dragon — Upside-down Hover",
+      "fallback": "😆",
+      "keywords": [
+        "dragon",
+        "comedy",
+        "upside",
+        "down",
+        "hover"
+      ],
+      "alias": ":dragon_upside_down_hover:"
+    }
+  ]
+}

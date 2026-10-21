@@ -1,0 +1,50 @@
+{
+  "id": "minion-prince",
+  "name": "Minion Prince",
+  "category": "heroic",
+  "dir": "minion-prince",
+  "format": "png",
+  "thumbSuffix": "-128.png",
+  "fullSuffix": "-512.png",
+  "items": [
+    {
+      "id": "royal-hover",
+      "file": "01-royal-hover",
+      "name": "Minion Prince — Royal Hover",
+      "fallback": "⚔️",
+      "keywords": [
+        "minion-prince",
+        "heroic",
+        "royal",
+        "hover"
+      ],
+      "alias": ":minion_prince_royal_hover:"
+    },
+    {
+      "id": "dark-orb",
+      "file": "02-dark-orb",
+      "name": "Minion Prince — Dark Orb",
+      "fallback": "⚔️",
+      "keywords": [
+        "minion-prince",
+        "heroic",
+        "dark",
+        "orb"
+      ],
+      "alias": ":minion_prince_dark_orb:"
+    },
+    {
+      "id": "sky-command",
+      "file": "03-sky-command",
+      "name": "Minion Prince — Sky Command",
+      "fallback": "⚔️",
+      "keywords": [
+        "minion-prince",
+        "heroic",
+        "sky",
+        "command"
+      ],
+      "alias": ":minion_prince_sky_command:"
+    }
+  ]
+}

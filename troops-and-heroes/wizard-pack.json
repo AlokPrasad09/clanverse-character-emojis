@@ -1,0 +1,50 @@
+{
+  "id": "wizard",
+  "name": "Wizard",
+  "category": "comedy",
+  "dir": "wizard",
+  "format": "png",
+  "thumbSuffix": "-128.png",
+  "fullSuffix": "-512.png",
+  "items": [
+    {
+      "id": "rabbit-misfire",
+      "file": "01-rabbit-misfire",
+      "name": "Wizard — Rabbit Misfire",
+      "fallback": "😆",
+      "keywords": [
+        "wizard",
+        "comedy",
+        "rabbit",
+        "misfire"
+      ],
+      "alias": ":wizard_rabbit_misfire:"
+    },
+    {
+      "id": "mustache-magic",
+      "file": "02-mustache-magic",
+      "name": "Wizard — Mustache Magic",
+      "fallback": "😆",
+      "keywords": [
+        "wizard",
+        "comedy",
+        "mustache",
+        "magic"
+      ],
+      "alias": ":wizard_mustache_magic:"
+    },
+    {
+      "id": "tiny-fireball",
+      "file": "03-tiny-fireball",
+      "name": "Wizard — Tiny Fireball",
+      "fallback": "😆",
+      "keywords": [
+        "wizard",
+        "comedy",
+        "tiny",
+        "fireball"
+      ],
+      "alias": ":wizard_tiny_fireball:"
+    }
+  ]
+}
